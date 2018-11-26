@@ -7,7 +7,7 @@ let _counter = 0;
 const counter = () => ++_counter;
 
 
-const randomInRange = (low, high) => low+ (Math.random()*(high-low))
+const randomInRange = (low, high) => Math.floor(low+ (Math.random()*(high-low)))
 
 const emString = em => `${em}em`
 const percentString = pct => `${pct}%`
@@ -136,6 +136,7 @@ const createRectangularPrismParams = (width, height, depth, rotation) => {
   for (let faceIndex = 0; faceIndex < 6; faceIndex ++) {
     if (faceIndex!==2) {
 
+
     
       const face  = document.createElement('div')
       face.id = `face-${faceIndex}-${id}`
@@ -150,6 +151,24 @@ const createRectangularPrismParams = (width, height, depth, rotation) => {
       // face.style.height = edgeLengthEm;
       face.style.position = 'absolute'
       face.classList.add('wireframe')
+
+      if (faceIndex === 1) {
+        if (randomInRange(0, 10) == 0) {
+          if (height > 6)
+          face.innerHTML='<img src="edited.png" style="margin-left: 1em; margin-top: 0.5em; width: 1em">'
+        } 
+      } else if (faceIndex === 3) {
+        if (randomInRange(0, 10) == 0) {
+          if (height >4)
+            face.innerHTML=`<img src="jvc-edited.png" style="margin-top: 1em; margin-left: ${depth-2}em; width: 1em">`// style="margin-left: 1em; margin-bottom: 0.5em; width: 1em">'
+        } 
+      } else if (faceIndex === 4) {
+        if (randomInRange(0, 10) == 0) {
+        if (width > 6)
+            face.innerHTML=`<img src="amzn-edited.png" style="width: 4em; margin-top: ${depth-2}em; margin-left: 1em;">`// style="margin-top: 1rem; margin-left: ${depth-2}em; width: 1em
+        }
+      }
+
     }
     
     // console.log(getTransformForCubeFace(faceIndex, edgeLength))
@@ -227,25 +246,48 @@ const getWidthHeightRotation = points => {
 }
 
 const getDist = (a, b) => Math.sqrt(Math.pow(a[0]-b[0],2) + Math.pow(a[1]-b[1],2))
+const scaleFactor = 160
+const threshHold = 2  * scaleFactor;
 
 let added = 0;
 buildings.forEach(building => {
   const points= building.points
-  const depth = building.height / 3
+  let depth = building.height / 3
+  if (depth < 20)
+    depth +=10
   // console.log(depth)
   const [width, height, rotation, left, top] = getWidthHeightRotation(points)
-  const scaleFactor = 160
-  const threshHold = 0.01  * scaleFactor;
-  if (scaleFactor * depth * width * height < threshHold)
-    return
-  const rect = createRectangularPrismParams(width * scaleFactor, height * scaleFactor, depth, rotation)
+  const rect = createRectangularPrismParams(width * scaleFactor, height * scaleFactor, depth, rotation+Math.PI * Math.random() * 2)
   rect.style.top = percentString(top*100)
   rect.style.left = percentString(left*100)
+  if (scaleFactor* scaleFactor * depth * width * height < threshHold)
+    return
+
   ++added;
   ground.appendChild(rect)
   
 })
 console.log(added)
+
+const randomAdded=50;
+let randomThreshholdPassing = 0;
+for (let i =0; i < randomAdded; i++) {
+  const tl = [Math.random(), Math.random()]
+  const width = Math.random()*20+3;
+  const height = Math.random()*20+3;
+  let depth = Math.floor(Math.random()*50)
+  if (depth < 20)
+    depth += 10
+  const rect = createRectangularPrismParams(width, height, depth, Math.PI * Math.random() * 2)
+  rect.style.top = percentString(Math.random()*400-150)
+  rect.style.left = percentString(Math.random()*100)
+  if (depth * width * height < threshHold * 5)
+    continue
+  ++ randomThreshholdPassing
+
+  ground.appendChild(rect)
+}
+console.log('randoms: ', randomThreshholdPassing)
 
 for (let i =0; i < 0; i++) {
   // createCubeParams(randomInRange(1,10), randomInRange(3,93), randomInRange(3,93))

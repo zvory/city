@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // First I want to read the file
-fs.readFile('./minimum-bounding-rect.json',  "utf8",function read(err, data) {
+fs.readFile('./clipped-bounding-rect.json',  "utf8",function read(err, data) {
     if (err) {
         throw err;
     }
