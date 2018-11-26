@@ -1,0 +1,108 @@
+$cube-edge: 2em;
+
+body {
+	margin: 0;
+  height: 100vh;
+  // transform-style: preserve-3d;
+  background-color: black;
+
+}
+
+
+[class*='cube'] { position: absolute }
+
+.ground {
+  height: 90vh;
+  width: 90vw;
+  perspective: 1000em;
+	// font-size: 2em;
+  transform-style: preserve-3d;
+    
+  -webkit-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
+  -moz-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
+  -o-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
+  -ms-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
+  transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
+
+  background-color: darkslategray;
+
+
+}
+
+.cube {
+
+  //font-size: 30vmin;  /* this scales the cube including translation */
+  // top: 50%; 
+  // left: 50%;
+  top: 5em;
+  left: 5em;
+  transform-style: preserve-3d;
+  transform: translateZ($cube-edge); // Don't forget this is wrong!
+
+}
+
+.cube__face {
+  margin: -.5*$cube-edge;
+  background-color: black;
+  width: $cube-edge; height: $cube-edge;
+  // box-shadow: 0 0 0 2px green;
+
+  // box-shadow: 0 0 0 1px green;
+  // opacity: 0.5;
+}
+
+.wireframe {
+  // box-shadow: 0 0 0 2px green;
+  // border: 2px solid #00ff00;
+  // border-radius: 2px;
+  border: 4px solid #00ff00;
+  border-radius: 7px;
+
+}
+
+.wireframe:before {
+  content: " ";
+  position: absolute;
+  // z-index: -1;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  opacity: 0.9;
+  border: 5px solid #00ff00;
+}
+
+
+
+.cube__face:before {
+  content: " ";
+  position: absolute;
+  // z-index: -1;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border: 5px solid #00ff00;
+}
+
+
+.cube__face:nth-child(1) {
+  transform: rotateY(0deg) translateZ($cube-edge/2);
+  // background-color: black;
+}
+.cube__face:nth-child(2) {
+  transform: rotateY(90deg) translateZ($cube-edge/2);
+}
+.cube__face:nth-child(3) {
+  transform: rotateY(180deg) translateZ($cube-edge/2);
+  // background-color: black;
+}
+.cube__face:nth-child(4) {
+  transform: rotateY(270deg) translateZ($cube-edge/2)
+}
+.cube__face:nth-child(5) {
+  transform: rotateX(90deg) translateZ($cube-edge/2)
+}
+.cube__face:nth-child(6) {
+  transform: rotateX(-90deg) translateZ($cube-edge/2)
+}
