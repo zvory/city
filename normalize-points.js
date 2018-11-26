@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // First I want to read the file
-fs.readFile('./buildings-height-not-normalized.json',  "utf8",function read(err, data) {
+fs.readFile('./clipped-clean.js',  "utf8",function read(err, data) {
     if (err) {
         throw err;
     }

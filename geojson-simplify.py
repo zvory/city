@@ -69,7 +69,7 @@ def minimum_bounding_rectangle(points):
     return rval
 
 
-with open('buildings.json') as f:
+with open('more-buildings.geojson') as f:
     data = json.load(f)
 
 

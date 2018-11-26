@@ -75,7 +75,7 @@ const getTransformForRectangleFace = (faceIndex, width, height, depth) => {
     height,
     -2*height
   ]
-  return `${rotations[faceIndex]} translateZ(${translations[faceIndex]}em)`
+  return `${rotations[faceIndex]} translateZ(${emString(translations[faceIndex])})`
 }
 
 const styleForFace = (faceIndex, width, height, depth) => {
@@ -100,11 +100,11 @@ const styleForFace = (faceIndex, width, height, depth) => {
     }, {
       width: widthEm,
       height: depthEm,
-      top: emString(depth*2)
+      top: emString(height*2  - depth*0.5)
     }, {
       width: widthEm,
       height: depthEm,
-      top: emString(depth*2)
+      top: emString(height*2  - depth*0.5)
     }
   ]
   return {
@@ -119,7 +119,7 @@ const assignStyles = (element, styles) => {
   }
 }
 
-const createRectangularPrismParams = (width, height, depth) => {
+const createRectangularPrismParams = (width, height, depth, rotation) => {
   const id = counter()
   // const widthLengthEm = emString(width)
   // const widthLengthEm = emString(width)
@@ -134,19 +134,23 @@ const createRectangularPrismParams = (width, height, depth) => {
   // 4 - up
   // 5 - down
   for (let faceIndex = 0; faceIndex < 6; faceIndex ++) {
-    const face  = document.createElement('div')
-    face.id = `face-${faceIndex}-${id}`
-    container.appendChild(face)
-    // face.style.backgroundColor = 'black'
-    // face.style.margin= -0.5*edgeLengthEm;
-    // console.log(styleForFace(faceIndex, width, height, depth))
-    // face.style = {...face.style, ...styleForFace(faceIndex, width, height, depth)}
-    assignStyles(face, styleForFace(faceIndex,width, height, depth))
-    console.log(face.style)
-    // face.style.width = edgeLengthEm;
-    // face.style.height = edgeLengthEm;
-    face.style.position = 'absolute'
-    face.classList.add('wireframe')
+    if (faceIndex!==2) {
+
+    
+      const face  = document.createElement('div')
+      face.id = `face-${faceIndex}-${id}`
+      container.appendChild(face)
+      // face.style.backgroundColor = 'black'
+      // face.style.margin= -0.5*edgeLengthEm;
+      // console.log(styleForFace(faceIndex, width, height, depth))
+      // face.style = {...face.style, ...styleForFace(faceIndex, width, height, depth)}
+      assignStyles(face, styleForFace(faceIndex,width, height, depth))
+      // console.log(face.style)
+      // face.style.width = edgeLengthEm;
+      // face.style.height = edgeLengthEm;
+      face.style.position = 'absolute'
+      face.classList.add('wireframe')
+    }
     
     // console.log(getTransformForCubeFace(faceIndex, edgeLength))
     // face.style.transform = getTransformForCubeFace(faceIndex, edgeLength)
@@ -156,22 +160,103 @@ const createRectangularPrismParams = (width, height, depth) => {
   // container.style.left = percentString(leftPct)
   container.style.position ='absolute'
   container.style.transformStyle = 'preserve-3d'
-  container.style.transform = `translateZ(${depth/2}em)`
+  container.style.transform = `rotateZ(${rotation}rad) translateZ(${emString(depth/2)})`
 
   return container
 
 }
 
+Array.prototype.max = function() {
+  return Math.max.apply(null, this);
+};
 
-for (let i =0; i < 1; i++) {
+Array.prototype.min = function() {
+  return Math.min.apply(null, this);
+};
+
+const getMinIndex = arr => {
+  let min = 0;
+  arr.forEach((elt, index) => {
+    if (elt <= arr[min])
+      min = index
+  })
+  return min
+}
+
+const getMaxIndex = arr => {
+  let max = 0;
+  arr.forEach((elt, index) => {
+    if (elt >= arr[max])
+    max = index
+  })
+  return max
+}
+
+function uniq(a) {
+  return a.sort().filter(function(item, pos, ary) {
+      return !pos || item != ary[pos - 1];
+  })
+}
+
+
+const getWidthHeightRotation = points => {
+  const x = points.map(point => point[0])
+  const xMinIndex = getMinIndex(x)
+  const xMaxIndex = getMaxIndex(x)
+  const y = points.map(point => point[1])
+  const yMinIndex = getMinIndex(y)
+  const yMaxIndex = getMaxIndex(y)
+
+  if (uniq([xMinIndex, xMaxIndex, yMinIndex, yMaxIndex]).length === 3) {
+    console.log('nonrotated shape detected')
+  }
+
+  const one = xMinIndex;
+  const two = yMinIndex;
+  const three = xMaxIndex;
+  const four = yMaxIndex;
+
+  const width = getDist([x[one],y[one]], [x[two], y[two]])
+  const height = getDist([x[one],y[one]], [x[four], y[four]])
+  const rotation = Math.atan((y[one]-y[two])/(x[two]-x[one]))
+
+  const left = x[one]
+  const top = y[one]
+
+  return [width, height, rotation, left, top]
+}
+
+const getDist = (a, b) => Math.sqrt(Math.pow(a[0]-b[0],2) + Math.pow(a[1]-b[1],2))
+
+let added = 0;
+buildings.forEach(building => {
+  const points= building.points
+  const depth = building.height / 3
+  // console.log(depth)
+  const [width, height, rotation, left, top] = getWidthHeightRotation(points)
+  const scaleFactor = 160
+  const threshHold = 0.01  * scaleFactor;
+  if (scaleFactor * depth * width * height < threshHold)
+    return
+  const rect = createRectangularPrismParams(width * scaleFactor, height * scaleFactor, depth, rotation)
+  rect.style.top = percentString(top*100)
+  rect.style.left = percentString(left*100)
+  ++added;
+  ground.appendChild(rect)
+  
+})
+console.log(added)
+
+for (let i =0; i < 0; i++) {
   // createCubeParams(randomInRange(1,10), randomInRange(3,93), randomInRange(3,93))
-  // const rect = createRectangularPrismParams(randomInRange(5,5), randomInRange(12,12), randomInRange(16,16))
-  const rect = createRectangularPrismParams(12, 20,16) 
-  // 12 width -> 4 left
-  // 17 width -> 9 left
-  // 3 width -> -5 left
-  // -> 
-  rect.style.top = percentString(randomInRange(50,50))
-  rect.style.left = percentString(randomInRange(30,30))
+  const rect = createRectangularPrismParams(randomInRange(2,30), randomInRange(2,30), randomInRange(2,30))
+  // const rect = createRectangularPrismParams(12, 12,24) 
+  // 20, 15, 3 -> 28.5
+  //12, 24, 3 -> 46.5
+  // 12, 24, 36 -> 30
+  // 12, 24, 24, -> 36
+  // 12, 12, 24, -> 12
+  rect.style.top = percentString(randomInRange(0,90))
+  rect.style.left = percentString(randomInRange(0,90))
   ground.appendChild(rect)
 }
