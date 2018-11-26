@@ -1,0 +1,751 @@
+[[-74.01322543849021, 40.70445204545012], [-74.013241, 40.7036499], [-74.01426331100572, 40.703669732690834], [-74.01424774949594, 40.70447187814095]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:state"=>"NY","addr:street"=>"Bowling Green","building:levels"=>"6","height"=>"29","nycdoitt:bin"=>"1000042","start_date"=>"1907","wikidata"=>"Q2068997","wikipedia"=>"en:Alexander Hamilton U.S. Custom
+[[-74.01165155950453, 40.703051122712985], [-74.01212645950453, 40.70292922271299], [-74.01220309999997, 40.703227799999986], [-74.01172819999996, 40.70334969999998]]
+"addr:housenumber"=>"104","addr:postcode"=>"10004","addr:street"=>"Broad Street","height"=>"90.9","nycdoitt:bin"=>"1000016"
+[[-74.01235105509673, 40.700603239392265], [-74.01355614450944, 40.70050963385939], [-74.01362779016709, 40.701432009074466], [-74.01242270075439, 40.701525614607334]]
+"addr:city"=>"New York","addr:housenumber"=>"4","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"South Street","building:part"=>"yes","gnis:county_name"=>"New York","gnis:feature_id"=>"2057409","gnis:import_uuid"=>"57871b70-0100-4405-bb30-88b2
+[[-74.00726127417926, 40.70376616200191], [-74.00787164995977, 40.703351395004745], [-74.00818411165002, 40.70381121714432], [-74.00757373586951, 40.7042259841415]]
+"addr:city"=>"New York","addr:housenumber"=>"33","addr:street"=>"Old Slip","nycdoitt:bin"=>"1000867","start_date"=>"1987","wikidata"=>"Q16983188"
+[[-74.013925, 40.7083095], [-74.01397731368212, 40.70813732838802], [-74.01429794525535, 40.70823475105836], [-74.01424563157323, 40.70840692267034]]
+"addr:city"=>"New York","addr:housenumber"=>"99","addr:street"=>"Washington Street","start_date"=>"2014"
+[[-74.00991649037093, 40.70745299064277], [-74.01036414512579, 40.70699233062744], [-74.01057970343896, 40.707201803341874], [-74.01013204868411, 40.70766246335721]]
+"addr:housename"=>"Federal Hall","building:part"=>"yes","gnis:feature_id"=>"2057537","height"=>"19.3","min_height"=>"9","nycdoitt:bin"=>"1001020","roof:height"=>"4","roof:orientation"=>"along","roof:shape"=>"gabled","start_date"=>"1842","website"=>"http:
+[[-74.009115448503, 40.70531410748231], [-74.00991785369928, 40.70526076353992], [-74.00994676096337, 40.705695589649025], [-74.00914435576709, 40.705748933591416]]
+"addr:city"=>"New York","addr:housenumber"=>"20","addr:state"=>"NY","addr:street"=>"Exchange Place","building:colour"=>"#DDD8C4","building:part"=>"yes","height"=>"55","nycdoitt:bin"=>"1000830","roof:material"=>"concrete","roof:shape"=>"flat","start_date"
+[[-74.01209388407806, 40.7041288251128], [-74.01312266618835, 40.70403674703696], [-74.0132012, 40.70491419999999], [-74.0121724178897, 40.70500627807583]]
+"addr:city"=>"New York","addr:housenumber"=>"2","addr:state"=>"NY","addr:street"=>"Broadway","building:part"=>"yes","nycdoitt:bin"=>"1000029","start_date"=>"1959","wikidata"=>"Q4633302","wikipedia"=>"en:2 Broadway"
+[[-74.01145157046378, 40.701865133672], [-74.01250011158851, 40.70168981888539], [-74.0126022, 40.70230039999999], [-74.01155365887527, 40.7024757147866]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:postcode"=>"10004","addr:street"=>"Water Street","building:levels"=>"50","height"=>"195","nycdoitt:bin"=>"1000005","start_date"=>"1970","wikidata"=>"Q2687492","wikipedia"=>"en:1 New York Plaza"
+[[-74.01108478966549, 40.70091737924803], [-74.01220614504889, 40.70066349427716], [-74.01233115427002, 40.701215633155606], [-74.0112097988866, 40.70146951812648]]
+"addr:housenumber"=>"10","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"South Street","building:part"=>"yes","gnis:county_name"=>"New York","gnis:feature_id"=>"2057410","gnis:import_uuid"=>"57871b70-0100-4405-bb30-88b2e001a944","gnis:reviewe
+[[-74.00998128224586, 40.70521769361442], [-74.01069021255397, 40.70518108482613], [-74.01070903030808, 40.705545491211694], [-74.01000009999997, 40.70558209999999]]
+"nycdoitt:bin"=>"1087954","start_date"=>"2009","wikidata"=>"Q15031905"
+[[-74.0115687, 40.70563], [-74.01159386168119, 40.705040497754695], [-74.01248419999999, 40.70507849999999], [-74.0124590383188, 40.7056680022453]]
+"addr:city"=>"New York","nycdoitt:bin"=>"1000817","start_date"=>"1962"
+[[-74.01224864008715, 40.70127020169846], [-74.01269931295558, 40.70053421478772], [-74.0141397801722, 40.701416267828215], [-74.01368910730378, 40.702152254738955]]
+"building:colour"=>"#A3A5A4","building:part"=>"yes","height"=>"5","layer"=>"2","min_height"=>"4.5","nycdoitt:bin"=>"1085792","roof:colour"=>"#A3A5A4","roof:shape"=>"flat"
+[[-74.01254464763088, 40.705358094373324], [-74.01267132599179, 40.70493962026629], [-74.01334270811137, 40.70514285765905], [-74.01321602975045, 40.705561331766084]]
+"addr:city"=>"New York","addr:country"=>"US","addr:housenumber"=>"26","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broadway","old_name"=>"Standard Oil Building","start_date"=>"1928","wikidata"=>"Q762816","wikipedia"=>"en:26 Broadway"
+[[-74.00901489057075, 40.70146206720567], [-74.00917213573271, 40.70134714539772], [-74.0093334, 40.70156779999999], [-74.00917615483804, 40.701682721807956]]
+
+[[-74.00501362133642, 40.705219374715824], [-74.0055950617059, 40.704808920884595], [-74.00591517498069, 40.70526238669879], [-74.00533373461118, 40.70567284053001]]
+"addr:city"=>"New York","addr:state"=>"NY","gnis:feature_id"=>"2058379","nycdoitt:bin"=>"1000874","start_date"=>"1983","wikidata"=>"Q15031803"
+[[-74.01376674825269, 40.703044601857265], [-74.01377882143815, 40.70270609126892], [-74.01423042923508, 40.702722198134914], [-74.01421835604962, 40.70306070872326]]
+"addr:city"=>"New York","addr:state"=>"NY","nycdoitt:bin"=>"1000020","start_date"=>"1988","wikidata"=>"Q3499774","wikipedia"=>"en:17 State Street"
+[[-74.0074962393622, 40.710578665026944], [-74.0076730062963, 40.710262405217584], [-74.00797925515437, 40.71043357673578], [-74.00780248822026, 40.71074983654514]]
+"building:colour"=>"#F4F0CD","building:levels"=>"10","building:part"=>"yes","height"=>"42","nycdoitt:bin"=>"1001242","roof:colour"=>"#C4C5B5","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0124205, 40.70882600000001], [-74.01263950328153, 40.708488669572326], [-74.0128039, 40.7085954], [-74.01258489671847, 40.708932730427684]]
+"addr:housenumber"=>"86","addr:postcode"=>"10006","addr:street"=>"Trinity Place","height"=>"66.1","nycdoitt:bin"=>"1001033","start_date"=>"1921","wikidata"=>"Q16961338"
+[[-74.01377676801714, 40.710022084861976], [-74.0139457688941, 40.70960119322432], [-74.01419226883615, 40.70970017049698], [-74.01402326795919, 40.71012106213463]]
+"addr:city"=>"New York","addr:country"=>"US","addr:housenumber"=>"140","addr:postcode"=>"10006","addr:state"=>"NY","addr:street"=>"Washington Street","nycdoitt:bin"=>"1001063","phone"=>"+1-212-577-1133","start_date"=>"1931","website"=>"http://www.clubqua
+[[-74.01144259999998, 40.710379], [-74.01166954011316, 40.70985184326611], [-74.01252061259969, 40.710218228581894], [-74.0122936724865, 40.71074538531578]]
+"addr:city"=>"New York","addr:country"=>"US","addr:housenumber"=>"150","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","alt_name"=>"4 WTC","nycdoitt:bin"=>"1088795","start_date"=>"2008","wikidata"=>"Q1351208","wikipedia"=>"en:Four World Trade
+[[-74.0137221, 40.7079608], [-74.01385399428798, 40.70758784049654], [-74.01444770000002, 40.7077978], [-74.01431580571203, 40.70817075950347]]
+"addr:city"=>"New York","addr:housenumber"=>"88","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","alt_name"=>"88 Greenwich Street","nycdoitt:bin"=>"1000794","ref:nrhp"=>"02000551","start_date"=>"1930","wikidata"=>"Q201417","wikipedia"=>"en:88
+[[-74.01208919999999, 40.70932359999999], [-74.01220901016394, 40.70904974819672], [-74.01263942065574, 40.7092380527869], [-74.0125196104918, 40.70951190459017]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:street"=>"Trinity Place","building:levels"=>"10","gnis:feature_id"=>"2083910","nycdoitt:bin"=>"1001037","wikidata"=>"Q5756623"
+[[-74.0135011, 40.708457800000005], [-74.01353505488646, 40.70832173041819], [-74.01387700948801, 40.70840706197808], [-74.01384305460155, 40.70854313155989]]
+"addr:housenumber"=>"102","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","building:colour"=>"#D4D0C5","building:levels"=>"5","height"=>"19.5","nycdoitt:bin"=>"1001054","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01385772941177, 40.708499782352945], [-74.01389138235295, 40.70836517058824], [-74.01421281764705, 40.70844552941176], [-74.01417916470587, 40.70858014117647]]
+"addr:city"=>"New York","addr:housenumber"=>"105-107","addr:postcode"=>"10006","addr:street"=>"Washington Street","building:colour"=>"#818275","building:levels"=>"6","building:material"=>"brick","height"=>"27.2","nycdoitt:bin"=>"1001046","roof:material"=
+[[-74.0134697, 40.7085307], [-74.01348864102519, 40.70845469512349], [-74.01378522346361, 40.70852860584732], [-74.01376628243843, 40.708604610723825]]
+"addr:housenumber"=>"106","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","building:colour"=>"#987266","building:levels"=>"5","building:material"=>"brick","height"=>"19.0","nycdoitt:bin"=>"1001053","roof:material"=>"concrete","roof:shape"=>"fl
+[[-74.0134385, 40.7086031], [-74.01345735011057, 40.708527542035924], [-74.01376961367711, 40.70860544517727], [-74.01375076356655, 40.70868100314134]]
+"addr:housenumber"=>"108","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","building:colour"=>"#CAC6AC","building:levels"=>"7","height"=>"26.0","nycdoitt:bin"=>"1001052","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01386284143597, 40.70857843830966], [-74.01388093467405, 40.70850560282341], [-74.0141607, 40.7085751], [-74.01414260676192, 40.708647935486255]]
+"addr:city"=>"New York","addr:housenumber"=>"109","addr:postcode"=>"10006","addr:street"=>"Washington Street","building:colour"=>"#94877B","building:levels"=>"5","building:material"=>"brick","height"=>"18.8","nycdoitt:bin"=>"1001047","roof:material"=>"co
+[[-74.01260114876706, 40.70890915597927], [-74.01279274876705, 40.708454455979265], [-74.01318680000001, 40.70862050000001], [-74.01299520000002, 40.7090752]]
+"addr:housenumber"=>"113","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","height"=>"66.1","nycdoitt:bin"=>"1001033"
+[[-74.01342379999998, 40.7092105], [-74.01350706679723, 40.709016512497726], [-74.01392529816104, 40.70919603326975], [-74.0138420313638, 40.70939002077202]]
+"addr:city"=>"New York","addr:housenumber"=>"8","addr:postcode"=>"10006","addr:street"=>"Albany Street","nycdoitt:bin"=>"1088442","official_name"=>"W New York - Downtown","start_date"=>"2010","website"=>"http://www.wnewyorkdowntown.com/","wikidata"=>"Q79
+[[-74.01243568736996, 40.709940628695065], [-74.01256732138847, 40.70964156061113], [-74.01271493401853, 40.70970653191607], [-74.01258330000002, 40.7100056]]
+"addr:city"=>"New York","addr:housenumber"=>"124","addr:postcode"=>"10006","addr:street"=>"Liberty Street","building:colour"=>"#A29A90","building:material"=>"brick","height"=>"10.8","nycdoitt:bin"=>"1075700","operator"=>"New York City Fire Department","r
+[[-74.01361377653254, 40.70819629415064], [-74.01362658604718, 40.70814490278671], [-74.0139367, 40.70822220000001], [-74.01392389048536, 40.70827359136394]]
+"addr:housenumber"=>"96","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","building:colour"=>"#925E4E","building:levels"=>"4","height"=>"15.1","nycdoitt:bin"=>"1001056","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01355730000003, 40.7083273], [-74.01359141207965, 40.70819061280142], [-74.01389990000001, 40.7082676], [-74.0138657879204, 40.708404287198576]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:postcode"=>"10006","addr:street"=>"Greenwich Street","building:levels"=>"25","height"=>"71.6","nycdoitt:bin"=>"1001055"
+[[-74.0122936301399, 40.70902904939736], [-74.01238793863918, 40.70881171936526], [-74.01265770730757, 40.70892878316001], [-74.01256339880828, 40.70914611319211]]
+"addr:city"=>"New York","addr:housenumber"=>"90","addr:postcode"=>"10006","addr:state"=>"NY","addr:street"=>"Trinity Place","gnis:county_id"=>"061","gnis:created"=>"02/15/2006","gnis:feature_id"=>"2083909","gnis:state_id"=>"36","height"=>"62.7","nycdoitt
+[[-74.01284119999998, 40.7081948], [-74.01295933773741, 40.70781979926669], [-74.01345769999999, 40.7079768], [-74.01333956226256, 40.70835180073331]]
+"nycdoitt:bin"=>"1001031","start_date"=>"1907"
+[[-74.01182618327734, 40.70967452412016], [-74.01204764501858, 40.70938311028084], [-74.0121404, 40.7094536], [-74.01191893825876, 40.709745013839324]]
+"building:colour"=>"#CEB396","building:levels"=>"5","height"=>"19.9","nycdoitt:bin"=>"1001043","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0119371, 40.70972110000001], [-74.0121682621704, 40.7094169392495], [-74.01232418762679, 40.709535442596355], [-74.01209302545638, 40.709839603346865]]
+"building:colour"=>"#CEB396","building:levels"=>"5","height"=>"20.3","nycdoitt:bin"=>"1001042","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0120813, 40.70978459999999], [-74.0123124464862, 40.70948038139882], [-74.01249690144576, 40.709620531000446], [-74.01226575495956, 40.70992474960162]]
+"building:colour"=>"#CCC3A6","building:levels"=>"11","height"=>"50.4","nycdoitt:bin"=>"1001041","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0122993, 40.709880600000005], [-74.01244085677722, 40.70958080355817], [-74.0125999, 40.709655899999994], [-74.01245834322278, 40.70995569644183]]
+"building:colour"=>"#BF9366","building:levels"=>"12","building:material"=>"brick","height"=>"49.0","nycdoitt:bin"=>"1001040","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01320557718329, 40.70912852706187], [-74.01334672292806, 40.70881345333482], [-74.01357702748557, 40.70891662445162], [-74.01343588174079, 40.70923169817867]]
+"addr:city"=>"New York","addr:housenumber"=>"120","addr:postcode"=>"10006","addr:state"=>"NY","addr:street"=>"Greenwich Street","building:colour"=>"#9C7C5D","building:levels"=>"13","height"=>"47.8","nycdoitt:bin"=>"1001050","roof:colour"=>"#8D8C8A","roof
+[[-74.01248528287255, 40.70950073817045], [-74.01254075972359, 40.70937397222576], [-74.01281007685103, 40.709491834055314], [-74.01275459999998, 40.7096186]]
+"building:colour"=>"#9B6950","building:levels"=>"5","height"=>"18.7","nycdoitt:bin"=>"1001038","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01193100000002, 40.7095499], [-74.01203405621129, 40.709397259148844], [-74.0120747, 40.70942470000001], [-74.01197164378873, 40.70957734085116]]
+"building:colour"=>"#B2B0A6","building:levels"=>"2","building:material"=>"brick","height"=>"9.9","nycdoitt:bin"=>"1001039","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01363499999998, 40.708147], [-74.01365139220532, 40.708093936757905], [-74.01395199999997, 40.70818679999999], [-74.01393560779464, 40.708239863242085]]
+"building:colour"=>"#A17665","building:levels"=>"4","height"=>"15.1","nycdoitt:bin"=>"1001057","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01365710000002, 40.7080957], [-74.0136734159024, 40.708043038905174], [-74.01399960000002, 40.7081441], [-74.01398328409763, 40.708196761094825]]
+"building:colour"=>"#90664D","building:levels"=>"4","building:material"=>"brick","height"=>"15.0","nycdoitt:bin"=>"1001058","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01338159999999, 40.70873519999999], [-74.01345742029969, 40.70855912001008], [-74.01379600305638, 40.708704914237444], [-74.01372018275669, 40.70888099422736]]
+"building:colour"=>"#BD9D73","building:levels"=>"9","building:material"=>"brick","building:part"=>"yes","height"=>"38.6","nycdoitt:bin"=>"1001051","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01396589213984, 40.71011141905761], [-74.01415758050643, 40.70967192629999], [-74.01454944240668, 40.70984284007794], [-74.01435775404008, 40.71028233283556]]
+"addr:city"=>"New York","addr:housenumber"=>"90","addr:postcode"=>"10006","addr:street"=>"West Street","building:levels"=>"23","height"=>"99","nycdoitt:bin"=>"1001064","ref:nrhp"=>"06001303","start_date"=>"1907","wikidata"=>"Q2564383","wikipedia"=>"en:90
+[[-74.00925619999998, 40.70987099999999], [-74.00938686747487, 40.70960199200332], [-74.0098021368015, 40.70980370420139], [-74.0096714693266, 40.71007271219806]]
+"addr:city"=>"New York","addr:country"=>"US","addr:housenumber"=>"176","addr:postcode"=>"10038","addr:state"=>"NY","addr:street"=>"Broadway","height"=>"60.7","nycdoitt:bin"=>"1001100","start_date"=>"1906"
+[[-74.01014399724642, 40.710347797843866], [-74.01037895021638, 40.710047741541864], [-74.01043560000001, 40.710092100000004], [-74.01020064703005, 40.71039215630201]]
+"addr:city"=>"New York","addr:housenumber"=>"10","addr:postcode"=>"10007","addr:street"=>"Cortlandt Street","building:colour"=>"#71736E","building:levels"=>"6","height"=>"21.6","nycdoitt:bin"=>"1078966","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00909234025633, 40.709708010767244], [-74.00929066941222, 40.709496988545354], [-74.00942475212821, 40.70962300613555], [-74.00922642297233, 40.70983402835745]]
+"addr:city"=>"New York","addr:housenumber"=>"11","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#A9A49E","building:levels"=>"14","building:material"=>"brick","height"=>"65.9","nycdoitt:bin"=>"1001098","roof:material"=>"concrete
+[[-74.0102114, 40.7103783], [-74.01044908666263, 40.71007488375179], [-74.01051978371025, 40.71013026557595], [-74.01028209704762, 40.71043368182416]]
+"addr:city"=>"New York","addr:housenumber"=>"12","addr:postcode"=>"10007","addr:street"=>"Cortlandt Street","building:colour"=>"#CEC8BC","height"=>"12.9","nycdoitt:bin"=>"1079030","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.008952, 40.70984640000001], [-74.00909306892797, 40.70970730333814], [-74.00922760184056, 40.70984374380696], [-74.00908653291259, 40.709982840468825]]
+"addr:city"=>"New York","addr:housenumber"=>"12","addr:postcode"=>"10038","addr:street"=>"John Street","contact:website"=>"https://cleaningexec.com/","email"=>"support@cleaningexec.com","nycdoitt:bin"=>"1001103","phone"=>"2124578699"
+[[-74.00819319478252, 40.71037409546286], [-74.00842848706246, 40.710103521260486], [-74.00848782518439, 40.710155121900435], [-74.00825253290445, 40.71042569610281]]
+"addr:city"=>"New York","addr:housenumber"=>"138","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#E8DEBB","building:levels"=>"5","height"=>"19.3","nycdoitt:bin"=>"1001226","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00834999999998, 40.7104448], [-74.00856431496024, 40.71019824675737], [-74.00862879999998, 40.7102543], [-74.00841448503974, 40.71050085324263]]
+"addr:city"=>"New York","addr:housenumber"=>"142","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#CAA376","building:levels"=>"6","building:material"=>"brick","height"=>"23.4","nycdoitt:bin"=>"1001224","roof:material"=>"concre
+[[-74.00843337080202, 40.71047897460266], [-74.00866106874794, 40.71021720232884], [-74.0087297, 40.710276900000004], [-74.0085020020541, 40.71053867227382]]
+"addr:city"=>"New York","addr:housenumber"=>"144","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#E4DCC2","height"=>"13.1","nycdoitt:bin"=>"1001223","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00864589799268, 40.710234698254865], [-74.00890137515499, 40.70994083859361], [-74.00897, 40.71000049999999], [-74.00871452283769, 40.71029435966125]]
+"addr:city"=>"New York","addr:housenumber"=>"15","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#876E5D","building:levels"=>"10","building:material"=>"brick","height"=>"37.7","nycdoitt:bin"=>"1001217","roof:material"=>"concrete
+[[-74.0084154, 40.7101186], [-74.00870623460786, 40.70978408383767], [-74.00889501333819, 40.70994821159647], [-74.00860417873034, 40.7102827277588]]
+"addr:city"=>"New York","addr:housenumber"=>"17","addr:postcode"=>"10038","addr:street"=>"John Street","nycdoitt:bin"=>"1001216"
+[[-74.00996607594485, 40.71002385304475], [-74.0099957827745, 40.7099583456768], [-74.0103302, 40.71011], [-74.01030049317035, 40.71017550736795]]
+"addr:city"=>"New York","addr:housenumber"=>"175","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#DCCBBB","building:levels"=>"5","height"=>"20.4","nycdoitt:bin"=>"1001078","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00992190000001, 40.710080100000006], [-74.00995061916338, 40.7100167787166], [-74.01028461706095, 40.71016826238326], [-74.01025589789758, 40.71023158366667]]
+"addr:city"=>"New York","addr:housenumber"=>"177","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#B7AF9E","building:levels"=>"5","height"=>"19.4","nycdoitt:bin"=>"1001077","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0098658, 40.7101374], [-74.00989691251108, 40.71006877193069], [-74.01024052361731, 40.71022454790482], [-74.01020941110623, 40.71029317597413]]
+"addr:city"=>"New York","addr:housenumber"=>"179","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#B9AA94","building:levels"=>"6","height"=>"23.5","nycdoitt:bin"=>"1001076","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00981714534538, 40.71019962055732], [-74.00984883894857, 40.710129710713296], [-74.01019269999999, 40.71028559999999], [-74.0101610063968, 40.71035550984402]]
+"addr:city"=>"New York","addr:housenumber"=>"181","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#ADA395","building:levels"=>"6","height"=>"21.1","nycdoitt:bin"=>"1001075","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0097796, 40.7102475], [-74.00985494579415, 40.71014249765899], [-74.0101359, 40.7103441], [-74.01006055420584, 40.71044910234101]]
+"addr:city"=>"New York","addr:housenumber"=>"183","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#F9FAFF","building:levels"=>"5","height"=>"18.2","nycdoitt:bin"=>"1001074","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0097317, 40.710308600000005], [-74.00976285352729, 40.7102399053517], [-74.0100861, 40.710386500000006], [-74.0100549464727, 40.71045519464831]]
+"addr:city"=>"New York","addr:housenumber"=>"187","addr:postcode"=>"10007","addr:street"=>"Broadway","building:colour"=>"#5F717E","building:levels"=>"3","height"=>"10.2","nycdoitt:bin"=>"1001073","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00885049999998, 40.70975369999999], [-74.00900735415736, 40.709576888255995], [-74.00906789999999, 40.70963059999999], [-74.00891104584262, 40.709807411743995]]
+"addr:city"=>"New York","addr:housenumber"=>"20","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#B6AF9A","building:levels"=>"4","height"=>"16.0","nycdoitt:bin"=>"1001104","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00881319999999, 40.70943859999999], [-74.00898244349942, 40.70925835305325], [-74.00910026896456, 40.70936898568478], [-74.00893102546513, 40.709549232631524]]
+"addr:city"=>"New York","addr:housenumber"=>"21","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#C4B097","building:levels"=>"9","building:material"=>"brick","height"=>"37.9","nycdoitt:bin"=>"1001096","roof:material"=>"concrete"
+[[-74.0086531, 40.709611300000006], [-74.00882689466755, 40.70942159368438], [-74.00894731152425, 40.709531910557644], [-74.0087735168567, 40.70972161687327]]
+"addr:city"=>"New York","addr:housenumber"=>"24","addr:postcode"=>"10038","addr:street"=>"John Street","height"=>"62.8","nycdoitt:bin"=>"1001105"
+[[-74.00800509999998, 40.70913409999999], [-74.00820015901509, 40.708941872486704], [-74.0082973778149, 40.70904052331465], [-74.00810231879979, 40.70923275082794]]
+"addr:city"=>"New York","addr:housenumber"=>"44","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#9C9B9B","denomination"=>"methodist","gnis:feature_id"=>"2057412","height"=>"13.0","nycdoitt:bin"=>"1001110","official_name"=>"John
+[[-74.00865995590975, 40.70935829132852], [-74.00868105864865, 40.709318023323036], [-74.0088455, 40.709404200000016], [-74.00882439726111, 40.7094444680055]]
+"addr:city"=>"New York","addr:housenumber"=>"63","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#979899","building:levels"=>"5","height"=>"18.3","nycdoitt:bin"=>"1001094","roof:material"=>"concrete","roof:shape"=>"flat","wiki
+[[-74.0099549, 40.7105532], [-74.01015032423462, 40.71030311252661], [-74.0102953, 40.71041640000001], [-74.01009987576538, 40.7106664874734]]
+"addr:city"=>"New York","addr:housenumber"=>"7","addr:postcode"=>"10007","addr:street"=>"Dey Street","nycdoitt:bin"=>"1001071"
+[[-74.00797689215977, 40.71006221371105], [-74.00801350645679, 40.70999818248828], [-74.00834433842728, 40.710187358635565], [-74.00830772413026, 40.710251389858335]]
+"addr:city"=>"New York","addr:housenumber"=>"85","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#767877","building:levels"=>"5","height"=>"19.7","nycdoitt:bin"=>"1001212","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0103392, 40.7097579], [-74.01053667935017, 40.70932304409685], [-74.0113793, 40.7097057], [-74.01118182064985, 40.71014055590315]]
+"building:colour"=>"black","building:levels"=>"54","height"=>"226","nycdoitt:bin"=>"1001068","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1973","wikidata"=>"Q1144187","wikipedia"=>"en:One Liberty Plaza"
+[[-74.01117001394853, 40.70860968579554], [-74.01125487298202, 40.708419292982214], [-74.0121059, 40.708798599999994], [-74.0120210409665, 40.70898899281332]]
+"building:colour"=>"#D3CBB8","building:levels"=>"21","building:part"=>"yes","height"=>"86","nycdoitt:bin"=>"1001029","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1905"
+[[-74.0109935, 40.70882069999999], [-74.01106436304264, 40.70866171264461], [-74.01195103718437, 40.709056916573644], [-74.01188017414174, 40.70921590392902]]
+"building:colour"=>"#D3CBB8","building:levels"=>"21","height"=>"86","nycdoitt:bin"=>"1001030","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1907","wikidata"=>"Q17349272"
+[[-74.00785108069938, 40.71019282503337], [-74.00793837601195, 40.710040170153455], [-74.0083025027802, 40.71024839513823], [-74.00821520746763, 40.71040105001814]]
+"building:colour"=>"#EBD5AE","building:levels"=>"12","building:part"=>"yes","height"=>"47","nycdoitt:bin"=>"1087245","roof:colour"=>"#B2A088","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0091242, 40.7099457], [-74.00924492758338, 40.709776937569124], [-74.0096237, 40.7100479], [-74.00950297241663, 40.710216662430874]]
+"addr:city"=>"New York","addr:housenumber"=>"180","addr:postcode"=>"10038","addr:street"=>"Broadway","building:levels"=>"3","building:material"=>"glass","building:part"=>"yes","height"=>"25","nycdoitt:bin"=>"1001102","roof:material"=>"concrete","roof:sha
+[[-74.00878589614516, 40.7097080964688], [-74.00909952694039, 40.709365721506984], [-74.00926859999997, 40.70952059999999], [-74.00895496920474, 40.70986297496181]]
+"nycdoitt:bin"=>"1001097","start_date"=>"1907"
+[[-74.0077585328094, 40.708716081044095], [-74.00792008873205, 40.70844009294872], [-74.0085139083565, 40.70878769880174], [-74.00835235243386, 40.70906368689712]]
+"addr:city"=>"New York","addr:housenumber"=>"59","addr:state"=>"NY","addr:street"=>"Maiden Lane","nycdoitt:bin"=>"1079043","start_date"=>"1966","wikidata"=>"Q3756922","wikipedia"=>"en:Home Insurance Plaza"
+[[-74.01175084720803, 40.7080211899879], [-74.0119298211427, 40.7076393889286], [-74.01262059999999, 40.7079632], [-74.01244162606532, 40.70834500105931]]
+"denomination"=>"episcopal","gnis:feature_id"=>"967814","name:es"=>"Iglesia Trinity","nycdoitt:bin"=>"1001028","ref:nrhp"=>"76001252","religion"=>"christian","start_date"=>"1846","website"=>"http://www.trinitywallstreet.org/","wikidata"=>"Q866896","wikip
+[[-74.01002059999999, 40.70996960000001], [-74.01004532434673, 40.709915079645626], [-74.01036819999999, 40.7100615], [-74.01034347565324, 40.710116020354384]]
+"building:colour"=>"#B5B196","building:levels"=>"2","height"=>"9.4","nycdoitt:bin"=>"1001079","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00869899999998, 40.709327499999986], [-74.00888231879779, 40.70914879714313], [-74.0089920386923, 40.70926135113086], [-74.00880871989449, 40.70944005398772]]
+"building:colour"=>"#7C8A8A","building:levels"=>"2","height"=>"8.4","nycdoitt:bin"=>"1001095","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00687959999998, 40.7083611], [-74.00706661256747, 40.7080614810137], [-74.00751277171923, 40.70833995925538], [-74.00732575915174, 40.70863957824168]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:postcode"=>"10038","addr:street"=>"William Street","building:colour"=>"#565E61","building:part"=>"yes","height"=>"89.6","nycdoitt:bin"=>"1001116","roof:material"=>"concrete","roof:shape"=>"flat","st
+[[-74.00888329040774, 40.71010385259803], [-74.00896007080755, 40.709993586135624], [-74.00940169999997, 40.710301099999995], [-74.00932491960016, 40.7104113664624]]
+"height"=>"34.7","nycdoitt:bin"=>"1001218"
+[[-74.00831149999999, 40.7097302], [-74.00839975882042, 40.70960342042884], [-74.00868859999999, 40.7098045], [-74.00860034117956, 40.70993127957116]]
+"building:colour"=>"#E8E6BF","building:levels"=>"15","building:part"=>"yes","height"=>"59.2","nycdoitt:bin"=>"1001215","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0096051, 40.7097964], [-74.00964290993761, 40.7097178681681], [-74.0098351, 40.7098104], [-74.0097972900624, 40.7098889318319]]
+"height"=>"50.5","nycdoitt:bin"=>"1001099"
+[[-74.01050268905635, 40.7108006292066], [-74.01086853325084, 40.7102513891598], [-74.011043, 40.7103676], [-74.01067715580551, 40.7109168400468]]
+"nycdoitt:bin"=>"1001070"
+[[-74.00851569999998, 40.709516499999985], [-74.00868712715216, 40.70932546643161], [-74.00881319999998, 40.709438599999984], [-74.00864177284781, 40.70962963356836]]
+"building:colour"=>"#B89A82","building:levels"=>"10","building:material"=>"brick","height"=>"47.6","nycdoitt:bin"=>"1001106","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00810776834254, 40.70920857332491], [-74.0085471779123, 40.70877321806138], [-74.00882689638699, 40.70905554145314], [-74.00838748681724, 40.70949089671666]]
+"addr:city"=>"New York","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#BFB194","building:part"=>"yes","height"=>"113","nycdoitt:bin"=>"1001109","roof:colour"=>"#B9B399","roof:shape"=>"flat"
+[[-74.01012709999999, 40.71063149999999], [-74.0105753820199, 40.71005670894376], [-74.01089688590176, 40.71030745120568], [-74.01044860388185, 40.7108822422619]]
+"addr:city"=>"New York","addr:housenumber"=>"22","addr:state"=>"NY","addr:street"=>"Cortlandt Street","building:colour"=>"#C4C4A2","building:part"=>"yes","height"=>"9","nycdoitt:bin"=>"1001069","start_date"=>"1971"
+[[-74.0108079, 40.7079916], [-74.01110704323573, 40.70764584166054], [-74.01141929999999, 40.707916], [-74.01112015676426, 40.70826175833946]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:postcode"=>"10005","addr:state"=>"NY","addr:street"=>"Broadway","building:colour"=>"#D7D1B7","building:levels"=>"23","building:part"=>"yes","height"=>"91.1","nycdoitt:bin"=>"1001024","roof:material"
+[[-74.00794694677279, 40.70815787594673], [-74.0082548957515, 40.7077879643527], [-74.00926839999998, 40.70863169999999], [-74.00896045102127, 40.709001611594026]]
+"addr:city"=>"New York","addr:housenumber"=>"33","addr:postcode"=>"10045","addr:state"=>"NY","addr:street"=>"Liberty Street","building:colour"=>"#C0BFBA","building:levels"=>"11","building:material"=>"stone","building:part"=>"yes","gnis:feature_id"=>"2058
+[[-74.00933699999997, 40.709380499999995], [-74.00952467976526, 40.709171011497034], [-74.00968539999998, 40.70931499999999], [-74.00949772023469, 40.70952448850295]]
+"addr:city"=>"New York","addr:housenumber"=>"10","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","construction"=>"hotel","description"=>"24 levels, 246 feet","nycdoitt:bin"=>"1001090"
+[[-74.00929085204966, 40.70934285704152], [-74.00944329131141, 40.709172704054126], [-74.0094876, 40.709212400000006], [-74.00933516073825, 40.7093825529874]]
+"addr:housenumber"=>"14","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#957F73","building:levels"=>"11","building:material"=>"brick","height"=>"46.8","nycdoitt:bin"=>"1001091","roof:material"=>"concrete","roof:shape"=>"flat","
+[[-74.01028791293946, 40.70653036452188], [-74.01045933998108, 40.70607688831728], [-74.0110088, 40.7062846], [-74.01083737295838, 40.7067380762046]]
+"addr:housenumber"=>"15","addr:street"=>"Broad Street","height"=>"168.8","nycdoitt:bin"=>"1078988","wikidata"=>"Q4550859"
+[[-74.00975858320191, 40.70935874984026], [-74.00983234607527, 40.709216193932534], [-74.0101785035528, 40.70939530660898], [-74.01010474067944, 40.70953786251671]]
+"addr:city"=>"New York","addr:housenumber"=>"160","addr:postcode"=>"10038","addr:street"=>"Broadway","building:colour"=>"#7D4D38","building:levels"=>"18","building:part"=>"yes","height"=>"76.8","nycdoitt:bin"=>"1079040","roof:colour"=>"#E3DCCC","roof:mat
+[[-74.00906944784634, 40.70912970457313], [-74.00919014784634, 40.70901270457313], [-74.0092263, 40.70904999999999], [-74.0091056, 40.709166999999994]]
+"addr:housenumber"=>"22","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#B9BBB9","building:levels"=>"1","height"=>"5.2","nycdoitt:bin"=>"1001080","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01016618189126, 40.706792348659796], [-74.0102611849155, 40.70652238443459], [-74.0107588, 40.70669749999999], [-74.01066379697576, 40.706967464225194]]
+"addr:housenumber"=>"23","addr:street"=>"Wall Street","height"=>"25","nycdoitt:bin"=>"1078988","wikidata"=>"Q2815111"
+[[-74.00984070000001, 40.70714370000002], [-74.01014912104105, 40.70683404576808], [-74.01033110000002, 40.70701530000001], [-74.01002267895898, 40.707324954231936]]
+"addr:city"=>"New York","addr:housenumber"=>"30","addr:postcode"=>"10005","addr:street"=>"Wall Street","height"=>"40","nycdoitt:bin"=>"1001019"
+[[-74.00991210749288, 40.70649939873631], [-74.01032585384921, 40.70621408294039], [-74.01044545755691, 40.70638752443565], [-74.01003171120057, 40.70667284023157]]
+"addr:city"=>"New York","addr:housenumber"=>"37","addr:postcode"=>"10005","addr:street"=>"Wall Street","building:colour"=>"#90604E","building:levels"=>"25","building:part"=>"yes","height"=>"95","nycdoitt:bin"=>"1078992","roof:material"=>"concrete","roof:
+[[-74.0093265, 40.7091288], [-74.00939809297326, 40.70899083794268], [-74.00977857862509, 40.70918828425237], [-74.00970698565183, 40.70932624630969]]
+"addr:housenumber"=>"4","addr:postcode"=>"10038","addr:street"=>"Liberty Place","height"=>"53.5","nycdoitt:bin"=>"1079039"
+[[-74.01008104033379, 40.706202733850446], [-74.01016890367923, 40.70596826046534], [-74.0105218, 40.70610049999999], [-74.01043393665456, 40.706334973385104]]
+"addr:city"=>"New York","addr:housenumber"=>"43","addr:postcode"=>"10005","addr:street"=>"Exchange Place","building:colour"=>"#C7C0B8","height"=>"99.3","nycdoitt:bin"=>"1078991","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00908440775211, 40.706928559527924], [-74.00953034259558, 40.70646693503004], [-74.00972752676894, 40.706657417324394], [-74.00928159192547, 40.70711904182227]]
+"addr:housenumber"=>"44","addr:street"=>"Wall Street","height"=>"99.9","nycdoitt:bin"=>"1001017"
+[[-74.00962467688215, 40.70633004496041], [-74.00994823128278, 40.70581973753569], [-74.01030483380728, 40.70604583715817], [-74.00998127940666, 40.70655614458289]]
+"addr:city"=>"New York","addr:housenumber"=>"45","addr:street"=>"Wall Street","nycdoitt:bin"=>"1000826","start_date"=>"1959"
+[[-74.00913430000001, 40.7089395], [-74.00915805679122, 40.70887496283456], [-74.0093872393652, 40.708959327286], [-74.00936348257399, 40.70902386445144]]
+"addr:city"=>"New York","addr:housenumber"=>"49","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#4F4240","building:levels"=>"4","building:material"=>"brick","height"=>"18.9","nycdoitt:bin"=>"1001083","roof:material"=>"concret
+[[-74.00900322576364, 40.70907033760543], [-74.00920054510922, 40.708872456896145], [-74.00934571934559, 40.709017219290715], [-74.0091484, 40.7092151]]
+"nycdoitt:bin"=>"1079032","start_date"=>"2008"
+[[-74.00903112851869, 40.70901432707455], [-74.00906189780683, 40.70895869467741], [-74.00919949999998, 40.70903479999999], [-74.00916873071183, 40.709090432397126]]
+"addr:city"=>"New York","addr:housenumber"=>"53","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#8A9493","building:levels"=>"4","height"=>"14.8","nycdoitt:bin"=>"1001082","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00890909999995, 40.70597319999999], [-74.00920531392092, 40.705484231778854], [-74.00978119999998, 40.70583309999999], [-74.00948498607902, 40.70632206822113]]
+"addr:housenumber"=>"55","addr:street"=>"Wall Street","height"=>"48.7","nycdoitt:bin"=>"1000827","wikidata"=>"Q1097619"
+[[-74.00951989999999, 40.709499699999995], [-74.00969614656941, 40.70930300669863], [-74.00974295546615, 40.70934494970031], [-74.00956670889673, 40.709541643001664]]
+"addr:city"=>"New York","addr:housenumber"=>"6","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","building:colour"=>"#938979","building:levels"=>"10","building:material"=>"brick","height"=>"42.3","nycdoitt:bin"=>"1079037","roof:material"=>"concrete"
+[[-74.00969198038963, 40.709143382422425], [-74.00989626932478, 40.708915468236256], [-74.0099580473353, 40.70897084242861], [-74.00975375840015, 40.70919875661478]]
+"addr:city"=>"New York","addr:housenumber"=>"67","addr:postcode"=>"10038","addr:street"=>"Liberty Street","nycdoitt:bin"=>"1001086"
+[[-74.00925479286782, 40.70920161374849], [-74.00929976154026, 40.70911492911048], [-74.00943310000001, 40.70918410000001], [-74.00938813132757, 40.70927078463802]]
+"addr:city"=>"New York","addr:housenumber"=>"8","addr:postcode"=>"10038","addr:street"=>"Liberty Place","building:colour"=>"#393B41","building:levels"=>"5","building:material"=>"brick","height"=>"15.7","nycdoitt:bin"=>"1001093","roof:material"=>"concrete
+[[-74.0096076, 40.708576], [-74.00979783053171, 40.708285014354935], [-74.0104294, 40.7086979], [-74.01023916946829, 40.70898888564506]]
+"addr:city"=>"New York","addr:housenumber"=>"140","addr:postcode"=>"10005","addr:street"=>"Broadway","alt_name"=>"HSBC Bank Building","building:colour"=>"black","building:levels"=>"51","height"=>"210","nycdoitt:bin"=>"1001027","roof:material"=>"concrete"
+[[-74.0093195, 40.7070798], [-74.00962954179207, 40.706583086962965], [-74.01025888553403, 40.706975915109275], [-74.00994884374197, 40.70747262814631]]
+"addr:city"=>"New York","addr:housenumber"=>"40","addr:postcode"=>"10005","addr:state"=>"NY","addr:street"=>"Wall Street","alt_name"=>"The Trump Building","gnis:feature_id"=>"2057536","nycdoitt:bin"=>"1001018","start_date"=>"1930","wikidata"=>"Q218305","
+[[-74.00958401093146, 40.70952227187186], [-74.00970088909654, 40.70929673700962], [-74.0100809186611, 40.70949367843916], [-74.00996404049603, 40.7097192133014]]
+"addr:city"=>"New York","addr:housenumber"=>"170","addr:postcode"=>"10038","addr:street"=>"Broadway","building:colour"=>"#C1C3C1","building:levels"=>"18","building:part"=>"yes","height"=>"76.8","nycdoitt:bin"=>"1001088","roof:material"=>"concrete","roof:
+[[-74.00971992232924, 40.70924849003304], [-74.00986530469936, 40.708928663798936], [-74.01038500000001, 40.7091649], [-74.01023961762989, 40.7094847262341]]
+"addr:city"=>"New York","addr:housenumber"=>"150","addr:postcode"=>"10038","addr:street"=>"Broadway","nycdoitt:bin"=>"1001087","start_date"=>"1924"
+[[-74.0091913, 40.70888720000001], [-74.00943967406548, 40.70865148035743], [-74.00957740000001, 40.70879660000001], [-74.00932902593452, 40.70903231964258]]
+"height"=>"117.8","nycdoitt:bin"=>"1001084"
+[[-74.00899183825206, 40.7090395444269], [-74.00905533825204, 40.708982844426906], [-74.00913449999999, 40.7090715], [-74.009071, 40.709128199999995]]
+"building:colour"=>"#948978","building:levels"=>"4","building:material"=>"brick","height"=>"14.3","nycdoitt:bin"=>"1001081","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00944073472813, 40.70901312589267], [-74.00954618796789, 40.70880973369526], [-74.00984990000003, 40.70896720000001], [-74.00974444676028, 40.70917059219742]]
+"height"=>"32.6","nycdoitt:bin"=>"1001085"
+[[-74.0091977764934, 40.70925956725636], [-74.0092726764934, 40.709175867256356], [-74.00936579999998, 40.7092592], [-74.00929089999998, 40.7093429]]
+"building:colour"=>"#D2D3CD","building:levels"=>"6","height"=>"20.9","nycdoitt:bin"=>"1001092","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0096854, 40.70931499999999], [-74.00976137782989, 40.709230165858635], [-74.0098082, 40.70927209999999], [-74.00973222217009, 40.70935693414135]]
+"height"=>"11.7","nycdoitt:bin"=>"1079038","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01030989999997, 40.707692299999984], [-74.01080020625955, 40.707164240642456], [-74.01122309999998, 40.70755689999999], [-74.0107327937404, 40.70808495935752]]
+"addr:city"=>"New York","addr:housenumber"=>"14","addr:state"=>"NY","addr:street"=>"Wall Street","building:part"=>"yes","height"=>"115","nycdoitt:bin"=>"1001025","old_name"=>"Bankers Trust Company Building","start_date"=>"1912","wikidata"=>"Q806742","wik
+[[-74.0101108, 40.706616], [-74.01037447331151, 40.70636835957116], [-74.01045062905028, 40.706449445829676], [-74.01018695573879, 40.706697086258515]]
+"height"=>"168.8","nycdoitt:bin"=>"1078988"
+[[-74.01105540000002, 40.70773230000001], [-74.01117626654764, 40.70752904963133], [-74.0115532, 40.7077532], [-74.01143233345238, 40.70795645036868]]
+"addr:city"=>"New York","addr:housenumber"=>"2","addr:postcode"=>"10005","addr:street"=>"Wall Street","nycdoitt:bin"=>"1001023","start_date"=>"1933"
+[[-74.00935559999999, 40.7077453], [-74.00959334146285, 40.70737560799185], [-74.01009419999998, 40.7076977], [-74.00985645853713, 40.70806739200815]]
+"addr:city"=>"New York","addr:housenumber"=>"20","addr:street"=>"Pine Street","building:colour"=>"#DFDECA","building:levels"=>"16","building:part"=>"yes","height"=>"61.9","nycdoitt:bin"=>"1001022","roof:material"=>"concrete","roof:shape"=>"flat","start_d
+[[-74.0124031950265, 40.70707721063211], [-74.01253931381234, 40.706786221654], [-74.01324429999998, 40.707116], [-74.01310818121414, 40.70740698897811]]
+"addr:city"=>"New York","addr:state"=>"NY","nycdoitt:bin"=>"1000808","start_date"=>"1916","wikidata"=>"Q351892","wikipedia"=>"en:Adams Express Building"
+[[-74.01047582670546, 40.70494450654188], [-74.0106024054871, 40.70487796064995], [-74.01068293643789, 40.705031140798866], [-74.01055635765624, 40.70509768669079]]
+"addr:housenumber"=>"48","addr:postcode"=>"10004","addr:street"=>"Beaver Street","height"=>"14.9","nycdoitt:bin"=>"1078997"
+[[-74.01231392545401, 40.70334706152338], [-74.0129212568521, 40.70320860316235], [-74.01298360300663, 40.703482077273414], [-74.01237627160855, 40.70362053563444]]
+"addr:city"=>"New York","addr:state"=>"NY","building:colour"=>"#2D414C","building:levels"=>"27","building:material"=>"glass","building:part"=>"yes","gnis:feature_id"=>"2057416","height"=>"130","nycdoitt:bin"=>"1000023","roof:material"=>"concrete","roof:s
+[[-74.01136487326075, 40.70628719879045], [-74.01146055340222, 40.70606163082979], [-74.0119367, 40.70626359999999], [-74.01184101985854, 40.706489167960655]]
+"addr:city"=>"New York","addr:housenumber"=>"30","addr:street"=>"Broad Street","nycdoitt:bin"=>"1000819","start_date"=>"1932","wikidata"=>"Q5165248"
+[[-74.0134314, 40.70587760000001], [-74.0136392059943, 40.705266932965344], [-74.0145016, 40.70556040000001], [-74.01429379400571, 40.70617106703467]]
+"addr:city"=>"New York","addr:housenumber"=>"25","addr:state"=>"NY","addr:street"=>"Broadway","alt_name"=>"Standard & Poors Building","gnis:county_name"=>"New York","gnis:feature_id"=>"2057408","nycdoitt:bin"=>"1000045","start_date"=>"1921","wikidata"=>"
+[[-74.01014059352883, 40.705049650102424], [-74.01029289999998, 40.7048836], [-74.01043381342434, 40.70501285030511], [-74.01028150695318, 40.70517890040753]]
+"height"=>"35.0","nycdoitt:bin"=>"1078999"
+[[-74.01210930000002, 40.707452800000006], [-74.01217750475972, 40.70724496983435], [-74.01294605146231, 40.707497188000076], [-74.01287784670261, 40.707705018165726]]
+"addr:city"=>"New York","addr:state"=>"NY","building:colour"=>"#EDE6C9","building:levels"=>"19","building:part"=>"yes","height"=>"77","nycdoitt:bin"=>"1000810","ref:nrhp"=>"83004643","roof:colour"=>"#818376","roof:material"=>"concrete","roof:shape"=>"fla
+[[-74.01222789267179, 40.70601701637946], [-74.01236603854329, 40.705708243608626], [-74.012973, 40.70597980000001], [-74.0128348541285, 40.706288572770845]]
+"height"=>"76","nycdoitt:bin"=>"1000812","start_date"=>"1904"
+[[-74.01264894441104, 40.70681703536382], [-74.01273947672271, 40.706609357672214], [-74.0133945, 40.70689490000001], [-74.01330396768833, 40.707102577691614]]
+"addr:city"=>"New York","addr:housenumber"=>"39","addr:street"=>"Broadway","nycdoitt:bin"=>"1000807","start_date"=>"1984"
+[[-74.01017311656018, 40.702596564484665], [-74.01118776310716, 40.70242357281185], [-74.01125749999999, 40.70283260000001], [-74.01024285345301, 40.70300559167282]]
+"addr:city"=>"New York","addr:housenumber"=>"115","addr:state"=>"NY","addr:street"=>"Broad Street","building:colour"=>"#CDAA7D","building:level"=>"21","height"=>"94","nycdoitt:bin"=>"1000007","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=
+[[-74.01304398101253, 40.70632202336573], [-74.01314518095167, 40.7060881959283], [-74.01379999999999, 40.7063716], [-74.01369880006085, 40.706605427437424]]
+"nycdoitt:bin"=>"1000803","start_date"=>"1928"
+[[-74.01121077668229, 40.70327141195678], [-74.01142339999998, 40.70321509999998], [-74.0114508784892, 40.70331885358761], [-74.0112382551715, 40.7033751655444]]
+"addr:housenumber"=>"101","addr:postcode"=>"10004","addr:street"=>"Broad Street","building:colour"=>"#615847","building:levels"=>"4","height"=>"10.4","nycdoitt:bin"=>"1086063","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01216756522835, 40.70410380258192], [-74.01234296522836, 40.70408790258192], [-74.0123657, 40.704338699999994], [-74.0121903, 40.704354599999995]]
+"addr:city"=>"New York","addr:housenumber"=>"11","addr:postcode"=>"10004","addr:street"=>"Stone Street","nycdoitt:bin"=>"1000041"
+[[-74.0120442319782, 40.704315827833234], [-74.0120468, 40.7040999], [-74.0121477, 40.7041011], [-74.0121451319782, 40.704317027833234]]
+"addr:city"=>"New York","addr:housenumber"=>"15","addr:postcode"=>"10004","addr:street"=>"Stone Street","building:colour"=>"#AB8E62","building:levels"=>"6","height"=>"16.1","nycdoitt:bin"=>"1000040","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0124178, 40.7049143], [-74.01242845669904, 40.70471100297213], [-74.01257725669906, 40.70471880297213], [-74.01256660000001, 40.704922100000005]]
+"addr:city"=>"New York","addr:housenumber"=>"16","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:colour"=>"#B0A48C","building:levels"=>"6","height"=>"23.8","nycdoitt:bin"=>"1000030","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0123274, 40.70490960000001], [-74.01234405062053, 40.7047134475682], [-74.01243420000002, 40.70472110000001], [-74.01241754937949, 40.70491725243181]]
+"addr:housenumber"=>"18","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:colour"=>"#6B5E5E","building:levels"=>"5","height"=>"19.1","nycdoitt:bin"=>"1000031","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01028050000001, 40.70359570000001], [-74.01032676920232, 40.70354392851416], [-74.01044400000002, 40.70364870000001], [-74.01039773079769, 40.70370047148586]]
+"addr:city"=>"New York","addr:housenumber"=>"2 1/2","addr:postcode"=>"10004","addr:street"=>"Coenties Slip","building:colour"=>"#979685","building:levels"=>"5","height"=>"17.5","nycdoitt:bin"=>"1079002","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01223559999998, 40.704904799999994], [-74.01225160429031, 40.704716034164974], [-74.0123432, 40.7047238], [-74.01232719570967, 40.704912565835016]]
+"addr:city"=>"New York","addr:housenumber"=>"20","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:colour"=>"#A56950","building:levels"=>"4","height"=>"15.9","nycdoitt:bin"=>"1000032","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01112557821544, 40.706662691068246], [-74.011349886226, 40.70629498615093], [-74.0117835, 40.7065595], [-74.01155919198945, 40.70692720491732]]
+"addr:city"=>"New York","addr:housenumber"=>"20","addr:street"=>"Broad Street","nycdoitt:bin"=>"1000816","start_date"=>"1956"
+[[-74.0121556, 40.704900699999996], [-74.01217092582681, 40.704719936440114], [-74.01225069999998, 40.704726699999995], [-74.01223537417317, 40.70490746355988]]
+"addr:city"=>"New York","addr:housenumber"=>"22","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:levels"=>"4","height"=>"15.9","nycdoitt:bin"=>"1000034","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01207469999999, 40.7048965], [-74.01208952664177, 40.70472223618281], [-74.01217019999999, 40.7047291], [-74.0121553733582, 40.70490336381719]]
+"addr:city"=>"New York","addr:housenumber"=>"24","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:colour"=>"#C4C3BC","building:levels"=>"4","height"=>"16.2","nycdoitt:bin"=>"1000035","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0111589, 40.7031846], [-74.01127035530287, 40.70315492751578], [-74.0112954, 40.703249], [-74.01118394469712, 40.70327867248421]]
+"addr:housenumber"=>"24","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#DCD6C8","building:levels"=>"5","height"=>"14.9","nycdoitt:bin"=>"1000011","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.012325, 40.70364119999998], [-74.01241497842959, 40.70362908533152], [-74.01243880862343, 40.70380607766321], [-74.01234883019384, 40.70381819233167]]
+"addr:city"=>"New York","addr:housenumber"=>"25","addr:postcode"=>"10004","addr:street"=>"Bridge Street","building:colour"=>"#A96759","building:levels"=>"5","building:material"=>"brick","height"=>"19.2","nycdoitt:bin"=>"1000026","roof:material"=>"concret
+[[-74.0118858894821, 40.70489345671428], [-74.01188855052696, 40.70472836105618], [-74.0120895, 40.7047316], [-74.01208683895514, 40.7048966956581]]
+"addr:city"=>"New York","addr:housenumber"=>"26","addr:postcode"=>"10004","addr:street"=>"Beaver Street","building:colour"=>"#A6A48F","building:levels"=>"18","height"=>"72.7","nycdoitt:bin"=>"1085816","roof:material"=>"concrete","roof:shape"=>"flat","sta
+[[-74.01049269922774, 40.704684258907676], [-74.0109691843506, 40.70448874560745], [-74.01106845601474, 40.70473068040691], [-74.01059197089187, 40.70492619370714]]
+"addr:city"=>"New York","addr:housenumber"=>"26","addr:postcode"=>"10004","addr:street"=>"South William Street","building:colour"=>"#BCBFB4","building:levels"=>"7","fee"=>"yes","height"=>"18.0","nycdoitt:bin"=>"1000851","parking"=>"multi-storey","roof:ma
+[[-74.011094, 40.70320099999999], [-74.01115814724993, 40.703180490335015], [-74.0111938, 40.70329199999999], [-74.01112965275007, 40.70331250966496]]
+"addr:housenumber"=>"26","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#B29771","building:levels"=>"5","height"=>"14.2","nycdoitt:bin"=>"1000010","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01220049999999, 40.7039493], [-74.01220763704151, 40.70376083749743], [-74.01246113704151, 40.70377043749743], [-74.01245399999999, 40.7039589]]
+"addr:city"=>"New York","addr:housenumber"=>"8","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Stone Street","height"=>"133.1","nycdoitt:bin"=>"1087618","operator"=>"Hilton Hotels and Resorts","phone"=>"+12124809100","website"=>"http://doubl
+[[-74.01103039999998, 40.7032171], [-74.01109215556683, 40.70319568188434], [-74.01113, 40.703304799999984], [-74.01106824443316, 40.70332621811565]]
+"addr:housenumber"=>"28","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#A2664A","building:levels"=>"4","height"=>"15.3","nycdoitt:bin"=>"1000009","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00939099999998, 40.704888499999996], [-74.0097856028642, 40.70479658534605], [-74.0098546, 40.70509279999999], [-74.00945999713578, 40.705184714653925]]
+"addr:housenumber"=>"3","addr:street"=>"Hanover Square","height"=>"96.4","nycdoitt:bin"=>"1000831"
+[[-74.01096609999999, 40.70323329999999], [-74.01103754326944, 40.703212723418766], [-74.01107949999998, 40.703358399999985], [-74.01100805673053, 40.703378976581206]]
+"addr:housenumber"=>"30","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#CD9F80","building:levels"=>"4","height"=>"16.4","nycdoitt:bin"=>"1000008","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01037799999999, 40.70369219999999], [-74.01042895732718, 40.70363524209037], [-74.01051395987629, 40.70371128952145], [-74.0104630025491, 40.70376824743107]]
+"addr:housenumber"=>"40","addr:street"=>"Water Street","building:colour"=>"#979685","building:levels"=>"5","height"=>"16.6","nycdoitt:bin"=>"1079001","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01007449999999, 40.703530099999995], [-74.01013170489607, 40.703465006675614], [-74.01027529999999, 40.70359119999999], [-74.01021809510391, 40.70365629332437]]
+"addr:city"=>"New York","addr:housenumber"=>"42","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#7C513E","building:levels"=>"4","height"=>"14.8","nycdoitt:bin"=>"1000857","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0117166, 40.705876599999996], [-74.01174968858197, 40.70567437110979], [-74.0121948, 40.7057472], [-74.01216171141802, 40.70594942889021]]
+"addr:city"=>"New York","addr:housenumber"=>"44","addr:postcode"=>"10004","addr:street"=>"New Street","building:colour"=>"#FCFBFB","building:levels"=>"7","height"=>"24.9","nycdoitt:bin"=>"1000818","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00999569999999, 40.7035812], [-74.01005537661608, 40.70351329411092], [-74.0101925, 40.7036338], [-74.01013282338391, 40.70370170588909]]
+"addr:city"=>"New York","addr:housenumber"=>"44","addr:postcode"=>"10004","addr:street"=>"Water Street","building:colour"=>"#69433A","building:levels"=>"4","height"=>"16.7","nycdoitt:bin"=>"1000856","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00898299999999, 40.70497059999999], [-74.00942362973893, 40.704872621867025], [-74.00949139999999, 40.70517739999999], [-74.00905077026104, 40.70527537813295]]
+"nycdoitt:bin"=>"1000832","start_date"=>"1961"
+[[-74.01034338382024, 40.70496635674058], [-74.01045765085902, 40.70490738380056], [-74.0105295, 40.70504659999999], [-74.01041523296122, 40.705105572940006]]
+"addr:housenumber"=>"52","addr:postcode"=>"10004","addr:street"=>"Beaver Street","height"=>"14.5","nycdoitt:bin"=>"1078998"
+[[-74.01108326761471, 40.703324022158284], [-74.0111926943587, 40.70328843482758], [-74.0112521, 40.7034711], [-74.011142673256, 40.703506687330716]]
+"addr:housenumber"=>"58","addr:postcode"=>"10004","addr:street"=>"Pearl Street","height"=>"19.7","nycdoitt:bin"=>"1000013"
+[[-74.01243419999999, 40.70377189999999], [-74.01252067270266, 40.70376277009138], [-74.0125444, 40.70398749999999], [-74.01245792729732, 40.7039966299086]]
+"addr:city"=>"New York","addr:housenumber"=>"6","addr:postcode"=>"10004","addr:street"=>"Stone Street","building:colour"=>"#AA9089","building:levels"=>"6","building:material"=>"brick","height"=>"18.8","nycdoitt:bin"=>"1000028","roof:material"=>"concrete"
+[[-74.01101169999998, 40.703385699999984], [-74.01111366915593, 40.703353839629415], [-74.01115689999999, 40.703492199999985], [-74.01105493084405, 40.703524060370555]]
+"addr:city"=>"New York","addr:housenumber"=>"60","addr:postcode"=>"10004","addr:street"=>"Pearl Street","building:colour"=>"#644C4B","building:levels"=>"6","building:material"=>"brick","height"=>"15.1","nycdoitt:bin"=>"1000014","roof:material"=>"concrete
+[[-74.01166231876839, 40.70460587043813], [-74.0119973187684, 40.70460037043813], [-74.0119987, 40.7046845], [-74.0116637, 40.70469]]
+"addr:city"=>"New York","addr:housenumber"=>"74","addr:street"=>"Broad Street","building:colour"=>"#8C877C","building:levels"=>"6","height"=>"22.3","nycdoitt:bin"=>"1000037","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01093009261518, 40.70444096553294], [-74.01143394296737, 40.704339165341516], [-74.01155536823703, 40.70494014814933], [-74.01105151788482, 40.70504194834076]]
+"addr:housenumber"=>"75","addr:street"=>"Broad Street","height"=>"132.7","nycdoitt:bin"=>"1000849"
+[[-74.01024563459075, 40.7036751559679], [-74.01029496502561, 40.70361911192357], [-74.01045479999999, 40.70375979999999], [-74.01040546956514, 40.70381584404432]]
+"addr:city"=>"New York","addr:housenumber"=>"76","addr:postcode"=>"10004","addr:street"=>"Pearl Street","building:colour"=>"#A9A090","building:levels"=>"5","height"=>"18.2","nycdoitt:bin"=>"1000852","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0117144355417, 40.703970802988316], [-74.01172098218984, 40.703625181532765], [-74.01220124664813, 40.703634278544456], [-74.0121947, 40.70397990000001]]
+"addr:city"=>"New York","addr:housenumber"=>"90","addr:street"=>"Broad Street","building:colour"=>"#AAA69D","building:levels"=>"16","building:part"=>"yes","height"=>"62.3","nycdoitt:bin"=>"1000025","roof:material"=>"concrete","roof:shape"=>"flat","start_
+[[-74.01083638506744, 40.70591177873642], [-74.01084130000001, 40.7056213], [-74.0113082, 40.7056292], [-74.01130328506743, 40.70591967873642]]
+"addr:city"=>"New York","addr:housenumber"=>"41","addr:postcode"=>"10004","addr:street"=>"Broad Street","building:colour"=>"#A0988D","building:levels"=>"8","building:part"=>"yes","height"=>"46","nycdoitt:bin"=>"1000823","roof:material"=>"concrete","roof:
+[[-74.0099397108562, 40.70556051156067], [-74.01064933619718, 40.705549214459126], [-74.01065495856669, 40.705902382558186], [-74.00994533322572, 40.70591367965973]]
+"addr:city"=>"New York","addr:housenumber"=>"40","addr:postcode"=>"10005","addr:street"=>"Exchange Place","building:colour"=>"#C7CBB8","building:levels"=>"20","height"=>"82.8","nycdoitt:bin"=>"1000825","roof:material"=>"concrete","roof:shape"=>"flat","st
+[[-74.0114547867696, 40.70606002087304], [-74.0115911802918, 40.70573900341963], [-74.01203929999998, 40.705929399999995], [-74.01190290647779, 40.706250417453404]]
+"addr:city"=>"New York","addr:housenumber"=>"40","addr:street"=>"Broad Street","building:levels"=>"1","height"=>"117.9","nycdoitt:bin"=>"1078985","smoking"=>"outside","start_date"=>"1982"
+[[-74.01039465014868, 40.70495857745743], [-74.01045147898455, 40.7047002461982], [-74.01107419993187, 40.70483723506518], [-74.011017371096, 40.7050955663244]]
+"addr:housenumber"=>"44","addr:street"=>"Beaver Street","height"=>"54.4","nycdoitt:bin"=>"1000850"
+[[-74.01174456008684, 40.70334194858041], [-74.01242236008684, 40.70333974858041], [-74.01242299999998, 40.7035369], [-74.01174519999998, 40.7035391]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broad Street","building:colour"=>"#BDB9AD","building:levels"=>"3","gnis:feature_id"=>"2057417","height"=>"9.5","nycdoitt:bin"=>"1000022","phone"
+[[-74.01082812881738, 40.707135475752814], [-74.01117672399167, 40.70660887672255], [-74.01158749999999, 40.70688080000001], [-74.0112389048257, 40.707407399030274]]
+"addr:housenumber"=>"11","addr:street"=>"Wall Street","nycdoitt:bin"=>"1078982","start_date"=>"1922","wikidata"=>"Q13677","wikipedia"=>"en:New York Stock Exchange"
+[[-74.0134004, 40.703517600000005], [-74.01340667982251, 40.70321160518174], [-74.01414220000001, 40.7032267], [-74.0141359201775, 40.703532694818264]]
+"addr:city"=>"New York","addr:state"=>"NY","building:colour"=>"black","building:levels"=>"36","building:material"=>"glass","height"=>"151","nycdoitt:bin"=>"1000021","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1971"
+[[-74.0131209, 40.702523499999984], [-74.01356773857904, 40.70250577379154], [-74.01358759216855, 40.703006238950536], [-74.01314075358951, 40.70302396515898]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:state"=>"NY","addr:street"=>"State Street Plaza","building:colour"=>"#71796A","building:levels"=>"33","building:material"=>"glass","height"=>"139.90","nycdoitt:bin"=>"1000018","roof:material"=>"concre
+[[-74.01353735311147, 40.70285296627737], [-74.01356076205232, 40.702456865837476], [-74.01384957686759, 40.70247393435912], [-74.01382616792674, 40.702870034799005]]
+"addr:housenumber"=>"8","addr:postcode"=>"10004","addr:street"=>"State Street","denomination"=>"catholic","gnis:county_id"=>"061","gnis:created"=>"01/01/2000","gnis:feature_id"=>"2057407","gnis:state_id"=>"36","height"=>"18.4","nycdoitt:bin"=>"1000019","
+[[-74.01380108066621, 40.70539838353056], [-74.01390108597688, 40.70496631597641], [-74.01468351941318, 40.70514741612644], [-74.01458351410251, 40.70557948368059]]
+"addr:city"=>"New York","addr:country"=>"US","addr:housenumber"=>"11","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broadway","building:colour"=>"#F0E8C3","building:levels"=>"18","building:part"=>"yes","height"=>"69.8","nycdoitt:bin"=>"1000
+[[-74.010080507787, 40.70221378850372], [-74.01088777356954, 40.702076145152596], [-74.01095382461607, 40.70246352855562], [-74.01014655883353, 40.70260117190674]]
+"addr:city"=>"New York","addr:housenumber"=>"125","addr:street"=>"Broad Street","building:colour"=>"#B8BCAE","building:levels"=>"40","building:part"=>"yes","height"=>"154","nycdoitt:bin"=>"1000006","roof:colour"=>"#D4C9AB","roof:material"=>"concrete","ro
+[[-74.0120705, 40.70294359999999], [-74.01235736558876, 40.702867805339594], [-74.01239891162149, 40.70302504764506], [-74.01211204603273, 40.70310084230546]]
+"addr:city"=>"New York","addr:housenumber"=>"6","addr:street"=>"Water Street","bin"=>"1000017","building:levels"=>"29","height"=>"100","nycdoitt:bin"=>"1000017","start_date"=>"2017"
+[[-74.01086249999999, 40.7032595], [-74.01096539932442, 40.70322536592459], [-74.01106082484458, 40.70351303217715], [-74.01095792552016, 40.70354716625256]]
+"addr:city"=>"New York","addr:housenumber"=>"32","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Water Street","building:colour"=>"#7A514B","building:levels"=>"6","building:material"=>"brick","height"=>"19.2","nycdoitt:bin"=>"1087449","roof:m
+[[-74.012424, 40.7056089], [-74.01253853163084, 40.70530573620884], [-74.01321244931687, 40.705560334198076], [-74.01309791768603, 40.705863497989235]]
+"height"=>"82","nycdoitt:bin"=>"1000811"
+[[-74.01030210000003, 40.705908000000015], [-74.01067629382035, 40.70532980523656], [-74.01135228981018, 40.70576729367116], [-74.01097809598986, 40.706345488434614]]
+"nycdoitt:bin"=>"1000824","start_date"=>"1902"
+[[-74.01029750000001, 40.70402870000001], [-74.01037225656103, 40.70397297101438], [-74.01052100000001, 40.704172500000006], [-74.01044624343899, 40.704228228985635]]
+"height"=>"15.1","nycdoitt:bin"=>"1000837"
+[[-74.01113729999999, 40.7013014], [-74.0112755033688, 40.701248334194524], [-74.01134279999998, 40.7014236], [-74.01120459663117, 40.70147666580547]]
+"height"=>"4","nycdoitt:bin"=>"1088310"
+[[-74.01015899999999, 40.70412979999999], [-74.01021174206214, 40.704072059849764], [-74.01038869999998, 40.7042337], [-74.01033595793781, 40.70429144015023]]
+"addr:city"=>"New York","addr:housenumber"=>"83","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Pearl Street","cuisine"=>"mexican","height"=>"16","nycdoitt:bin"=>"1078964","opening_hours"=>"Tu-Sa 11:30-23:30; Su-Mo 11:30-01:00","phone"=>"+12
+[[-74.00975781292195, 40.70377222146884], [-74.0098556, 40.703672], [-74.01014790000002, 40.703957200000005], [-74.01005011292197, 40.70405742146884]]
+"building:colour"=>"#ABB1AE","building:material"=>"glass","height"=>"30","nycdoitt:bin"=>"1000855","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01008359999997, 40.704184899999994], [-74.01014235113121, 40.70411567096001], [-74.01032549999996, 40.704271099999985], [-74.01026674886873, 40.70434032903997]]
+"addr:city"=>"New York","addr:housenumber"=>"52","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Stone Street","height"=>"16.9","nycdoitt:bin"=>"1077219","website"=>"http://stonestreettavernnyc.com/"
+[[-74.00607459999999, 40.703225399999994], [-74.00617383100314, 40.70312746644823], [-74.00639759999999, 40.70335419999999], [-74.00629836899684, 40.703452133551764]]
+"height"=>"7.6","nycdoitt:bin"=>"1087760"
+[[-74.0128396, 40.7065661], [-74.01286978690993, 40.70649721719498], [-74.01348956402929, 40.706768825705424], [-74.01345937711937, 40.70683770851045]]
+"building:colour"=>"#89A0AB","height"=>"18.1","nycdoitt:bin"=>"1000805","roof:colour"=>"#A0997F","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0112638, 40.703158099999996], [-74.0114126, 40.7031205], [-74.0114360873577, 40.70321344996874], [-74.01128728735769, 40.70325104996874]]
+"addr:city"=>"New York","addr:housenumber"=>"105","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broad Street","building:colour"=>"#896653","building:levels"=>"5","height"=>"14.9","nycdoitt:bin"=>"1000012","roof:material"=>"concrete","roof:s
+[[-74.01164185872588, 40.704882664882085], [-74.01164425872588, 40.704733764882086], [-74.01188840000002, 40.7047377], [-74.01188600000002, 40.7048866]]
+"building:colour"=>"#CCCECB","height"=>"23.5","nycdoitt:bin"=>"1000036","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01033979999997, 40.704386799999995], [-74.01040523807619, 40.704336049360506], [-74.01056, 40.7045356], [-74.01049456192378, 40.70458635063949]]
+"building:colour"=>"#968D8E","building:levels"=>"5","building:material"=>"brick","height"=>"17.0","nycdoitt:bin"=>"1000845","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01028729999999, 40.7044269], [-74.01033548259701, 40.704382151291775], [-74.0105053, 40.704565], [-74.01045711740298, 40.704609748708236]]
+"addr:city"=>"New York","addr:housenumber"=>"15","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"South William Street","height"=>"14.3","nycdoitt:bin"=>"1000844"
+[[-74.0102235, 40.7040828], [-74.01029088253442, 40.70402143376329], [-74.01045560000001, 40.704202300000006], [-74.01038821746559, 40.70426366623672]]
+"addr:city"=>"New York","addr:housenumber"=>"81","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Pearl Street","height"=>"16.0","nycdoitt:bin"=>"1000838","website"=>"http://www.beckettsnyc.com/"
+[[-74.0102339, 40.704469], [-74.01028034882464, 40.70442027372089], [-74.0104606, 40.704592100000006], [-74.01041415117537, 40.70464082627912]]
+"height"=>"13.4","nycdoitt:bin"=>"1000843"
+[[-74.0132672, 40.7075538], [-74.0132883576286, 40.70749460211451], [-74.013618369503, 40.70761255005493], [-74.01359721187441, 40.70767174794043]]
+"building:colour"=>"#7F5E39","building:levels"=>"7","building:material"=>"brick","height"=>"22.7","nycdoitt:bin"=>"1000798","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01339569999999, 40.7078595], [-74.01345127993459, 40.7077290220565], [-74.013551, 40.70777150000001], [-74.01349542006541, 40.70790197794351]]
+"building:colour"=>"#CCA786","building:levels"=>"3","building:material"=>"brick","height"=>"9.7","nycdoitt:bin"=>"1000800","roof:material"=>"metal","roof:shape"=>"flat"
+[[-74.0101287, 40.7045466], [-74.01021080752105, 40.70444945487057], [-74.0104159, 40.7046228], [-74.01033379247895, 40.70471994512943]]
+"addr:city"=>"New York","addr:housenumber"=>"9","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"South William Street","height"=>"23.0","nycdoitt:bin"=>"1000842","website"=>"http://www.thewallstreetinn.com/"
+[[-74.01014789999998, 40.703482599999994], [-74.01019691775791, 40.70342779039578], [-74.01034049999998, 40.70355619999999], [-74.01029148224205, 40.7036110096042]]
+"building:colour"=>"#ABA391","building:levels"=>"5","height"=>"23.1","nycdoitt:bin"=>"1000858","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01278409999999, 40.70662900000001], [-74.01281612746241, 40.70655582628594], [-74.01344282072785, 40.70683012417093], [-74.01341079326542, 40.70690329788499]]
+"building:colour"=>"#5B3630","building:material"=>"brick","height"=>"17.8","nycdoitt:bin"=>"1000806","roof:colour"=>"#50574F","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01040900000002, 40.704340900000005], [-74.01048247336351, 40.70429604257809], [-74.01061310000003, 40.70451000000001], [-74.01053962663653, 40.704554857421925]]
+"addr:city"=>"New York","addr:housenumber"=>"19","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"South William Street","building:colour"=>"#9C8986","building:levels"=>"5","building:material"=>"brick","height"=>"17.3","nycdoitt:bin"=>"1000846"
+[[-74.0135965, 40.70162189999998], [-74.01363283632602, 40.70161213997049], [-74.0136487, 40.70167119999999], [-74.01361236367397, 40.70168096002948]]
+"building:colour"=>"#8C7C6C","height"=>"3.1","nycdoitt:bin"=>"1000000","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01163719999998, 40.7070594], [-74.01192652421153, 40.70660555367439], [-74.01224659999997, 40.70680959999999], [-74.01195727578842, 40.7072634463256]]
+"nycdoitt:bin"=>"1000815"
+[[-74.01037279999998, 40.70397369999999], [-74.01044654705203, 40.70391872357589], [-74.0106045246151, 40.704130639497194], [-74.01053077756306, 40.704185615921304]]
+"height"=>"11.1","nycdoitt:bin"=>"1000836"
+[[-74.00998009879874, 40.70426577318439], [-74.01005598257383, 40.704164256050746], [-74.01026339999999, 40.7043193], [-74.01018751622489, 40.704420817133645]]
+"addr:city"=>"New York","addr:housenumber"=>"54","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Stone Street","cuisine"=>"pizza","height"=>"25.1","nycdoitt:bin"=>"1088620","website"=>"http://stonestreettavernnyc.com/"
+[[-74.0106194, 40.703320899999994], [-74.01086006646901, 40.70324342882468], [-74.01095459999999, 40.70353709999999], [-74.01071393353098, 40.70361457117531]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Coenties Slip","building:colour"=>"#AD5938","building:levels"=>"5","building:material"=>"brick","height"=>"21.1","nycdoitt:bin"=>"1077806","roof:m
+[[-74.01048359999996, 40.704299099999986], [-74.01064086537369, 40.70421069792906], [-74.01076283050278, 40.70442767125793], [-74.01060556512905, 40.70451607332886]]
+"addr:city"=>"New York","addr:housenumber"=>"45","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Stone Street","building:colour"=>"#AC9D80","building:levels"=>"6","building:material"=>"brick","height"=>"30.5","nycdoitt:bin"=>"1087244","roof:m
+[[-74.012417, 40.70364409999999], [-74.01304939275856, 40.70363656553506], [-74.01305350160189, 40.70398143445273], [-74.01242110884333, 40.70398896891766]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:postcode"=>"10004","addr:street"=>"Whitehall Street","nycdoitt:bin"=>"1000027","start_date"=>"1962"
+[[-74.01028716672897, 40.70487675596114], [-74.01044100343299, 40.704747886512436], [-74.01056599999998, 40.7048971], [-74.01041216329597, 40.7050259694487]]
+"height"=>"35.0","nycdoitt:bin"=>"1078999"
+[[-74.0116795, 40.7045056], [-74.01168579628029, 40.70414761149237], [-74.01205908608486, 40.70415417689095], [-74.01205278980457, 40.70451216539858]]
+"addr:city"=>"New York","addr:housenumber"=>"80","addr:postcode"=>"10004","addr:street"=>"Broad Street","nycdoitt:bin"=>"1000038","start_date"=>"1930"
+[[-74.01319889084535, 40.70765232561425], [-74.01323785312965, 40.707543311277675], [-74.01359399999998, 40.7076706], [-74.01355503771568, 40.70777961433658]]
+"building:colour"=>"#9B6B44","building:levels"=>"5","building:material"=>"brick","height"=>"22.7","nycdoitt:bin"=>"1000799","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01275217428119, 40.703437238592635], [-74.01297812119273, 40.70341866610816], [-74.0129865, 40.70352059999999], [-74.01276055308846, 40.703539172484454]]
+"building:colour"=>"#CCCABE","building:levels"=>"8","height"=>"28.5","nycdoitt:bin"=>"1000024","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00985559999998, 40.70367199999998], [-74.00998474365964, 40.70353964133336], [-74.01031399999998, 40.7038609], [-74.0101848563403, 40.70399325866663]]
+"building:colour"=>"#98938B","building:levels"=>"11","height"=>"41.8","nycdoitt:bin"=>"1000854","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01363229999998, 40.70193189999999], [-74.013671158372, 40.70187820900882], [-74.01375008840648, 40.701935333911464], [-74.01371123003446, 40.70198902490264]]
+"building:colour"=>"#8C7C6C","height"=>"7.0","nycdoitt:bin"=>"1000000","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01118889251481, 40.70327636583857], [-74.01141415183334, 40.70322633383026], [-74.01145834210557, 40.70342529187625], [-74.01123308278706, 40.70347532388456]]
+"addr:city"=>"New York","addr:housenumber"=>"99","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broad Street","height"=>"14.6","nycdoitt:bin"=>"1078965"
+[[-74.012129, 40.703068900000005], [-74.01242582015155, 40.702988654372774], [-74.01247089999998, 40.7031554], [-74.01217407984844, 40.70323564562723]]
+"building:colour"=>"#AFA389","building:levels"=>"7","height"=>"27.0","nycdoitt:bin"=>"1078968","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01134771013325, 40.707491382421914], [-74.01166902423951, 40.70701191124944], [-74.01197729999998, 40.707218499999996], [-74.01165598589373, 40.70769797117248]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:state"=>"NY","addr:street"=>"Wall Street","nycdoitt:bin"=>"1000815","old_name"=>"Bank of New York Building","start_date"=>"1931","wikidata"=>"Q209017","wikipedia"=>"en:1 Wall Street"
+[[-74.009790334244, 40.70482315720236], [-74.01002587461015, 40.704556361360424], [-74.0102366, 40.7047424], [-74.01000105963385, 40.70500919584194]]
+"addr:city"=>"New York","addr:housenumber"=>"1","addr:state"=>"NY","addr:street"=>"William Street","building:levels"=>"12","gnis:feature_id"=>"2057423","height"=>"48","nycdoitt:bin"=>"1078995","start_date"=>"1907","wikidata"=>"Q4596029","wikipedia"=>"en:
+[[-74.01321112745961, 40.70612832411058], [-74.01330986382682, 40.70589014427736], [-74.0139507, 40.7061558], [-74.01385196363279, 40.706393979833216]]
+"addr:city"=>"New York","addr:housenumber"=>"29","addr:postcode"=>"10006","addr:street"=>"Broadway","nycdoitt:bin"=>"1000802","start_date"=>"1931"
+[[-74.0124607, 40.70284269999999], [-74.01278304198662, 40.70275009591037], [-74.0128692, 40.70304999999999], [-74.01254685801338, 40.70314260408962]]
+"addr:city"=>"New York","addr:housenumber"=>"39","addr:state"=>"NY","addr:street"=>"Whitehall Street","building:colour"=>"#415A5E","building:levels"=>"18","building:material"=>"glass","height"=>"73","nycdoitt:bin"=>"1087700","roof:material"=>"concrete","
+[[-74.01236021418791, 40.70574829689684], [-74.01241426593911, 40.70560522258898], [-74.0130786, 40.7058562], [-74.0130245482488, 40.705999274307864]]
+"height"=>"83","nycdoitt:bin"=>"1078979","start_date"=>"1898"
+[[-74.01288917851075, 40.706506864363526], [-74.01298276366622, 40.70629274240073], [-74.01363360000002, 40.7065772], [-74.01354001484455, 40.7067913219628]]
+"addr:city"=>"New York","addr:housenumber"=>"45","addr:street"=>"Broadway","nycdoitt:bin"=>"1000804","start_date"=>"1983"
+[[-74.0115420262179, 40.705630332500974], [-74.01224065627298, 40.70562176641683], [-74.01224370160993, 40.70587013707057], [-74.01154507155485, 40.70587870315471]]
+"addr:city"=>"New York","addr:housenumber"=>"50","addr:street"=>"Broad Street","nycdoitt:bin"=>"1000820","start_date"=>"1905"
+[[-74.01212947278312, 40.70622199745133], [-74.01222582130269, 40.70601105934015], [-74.01276120000001, 40.706255600000006], [-74.01266485148044, 40.70646653811119]]
+"addr:city"=>"New York","addr:housenumber"=>"50","addr:street"=>"Broadway","nycdoitt:bin"=>"1000813","start_date"=>"1927"
+[[-74.01195959999998, 40.706546], [-74.01211158773256, 40.70621321275303], [-74.0126133421788, 40.70644236973334], [-74.0124613544462, 40.706775156980314]]
+"addr:city"=>"New York","addr:housenumber"=>"52","addr:postcode"=>"10004","addr:street"=>"Broadway","nycdoitt:bin"=>"1000814","start_date"=>"1898","wikidata"=>"Q18748915"
+[[-74.01064759999998, 40.70514759999998], [-74.0114135, 40.70510539999999], [-74.01143248542397, 40.70544997194817], [-74.01066658542395, 40.705492171948165]]
+"addr:city"=>"New York","addr:housenumber"=>"55","addr:street"=>"Broad Street","nycdoitt:bin"=>"1000821","start_date"=>"1967"
+[[-74.0122489, 40.7072684], [-74.0123499751466, 40.70705230489695], [-74.01305570122949, 40.70738239737141], [-74.01295462608289, 40.70759849247446]]
+"addr:city"=>"New York","addr:state"=>"NY","alt_name"=>"American Express Building","building:levels"=>"21","height"=>"89","nycdoitt:bin"=>"1000809","roof:shape"=>"flat","start_date"=>"1917","wikidata"=>"Q254049","wikipedia"=>"en:65 Broadway"
+[[-74.00916998689215, 40.70413487971009], [-74.0098367177784, 40.703704153154696], [-74.01005109999998, 40.704035999999995], [-74.00938436911372, 40.70446672655539]]
+"addr:city"=>"New York","addr:housenumber"=>"7","addr:street"=>"Hanover Square","building:levels"=>"28","building:material"=>"brick","building:part"=>"yes","height"=>"85","nycdoitt:bin"=>"1000855","roof:material"=>"concrete","start_date"=>"1983"
+[[-74.01071086883974, 40.70381460102662], [-74.01142735350984, 40.703680386863745], [-74.01152292220266, 40.704190567770745], [-74.01080643753255, 40.70432478193362]]
+"addr:city"=>"New York","addr:housenumber"=>"85","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Broad Street","building:colour"=>"#8E8075","building:levels"=>"32","height"=>"135","nycdoitt:bin"=>"1066031","old_name"=>"Goldman Sachs Building"
+[[-74.00885550684579, 40.70653535480894], [-74.00912327531785, 40.706219403069205], [-74.00936870000001, 40.70642740000001], [-74.00910093152797, 40.706743351739746]]
+"addr:city"=>"New York","addr:housenumber"=>"48","addr:state"=>"NY","addr:street"=>"Wall Street","nycdoitt:bin"=>"1001005","start_date"=>"1928","wikidata"=>"Q630074","wikipedia"=>"en:48 Wall Street"
+[[-74.00852378765583, 40.70707528806822], [-74.00877590804902, 40.70681445416568], [-74.00890899999999, 40.70694309999999], [-74.0086568796068, 40.70720393390253]]
+"addr:city"=>"New York","addr:state"=>"NY","alt_name"=>"War Memorial Church","denomination"=>"roman_catholic","height"=>"22.0","nycdoitt:bin"=>"1001012","religion"=>"christian","start_date"=>"1946","website"=>"http://www.wscya.org/olov/","wikidata"=>"Q71
+[[-74.008697974526, 40.706726220646495], [-74.00879348151268, 40.706544431779804], [-74.0091111, 40.7067113], [-74.00901559301332, 40.70689308886669]]
+"addr:city"=>"New York","addr:housenumber"=>"52","addr:state"=>"NY","addr:street"=>"William Street","building:colour"=>"#AEB1B2","building:levels"=>"17","building:part"=>"yes","height"=>"77.5","nycdoitt:bin"=>"1001006","roof:material"=>"concrete","roof:s
+[[-74.00662279999999, 40.70735539999999], [-74.00694197285237, 40.70716990984688], [-74.00699564225434, 40.70726225877118], [-74.00667646940195, 40.707447748924295]]
+"addr:housenumber"=>"14 REAR","addr:postcode"=>"10038","addr:street"=>"Gold Street","height"=>"7.1","nycdoitt:bin"=>"1088318","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00661849435369, 40.707438800985884], [-74.00714770627734, 40.707034753990214], [-74.00729551023402, 40.70722834438213], [-74.00676629831037, 40.707632391377786]]
+"addr:city"=>"New York","addr:housenumber"=>"2","addr:postcode"=>"10038","addr:street"=>"Gold Street","nycdoitt:bin"=>"1087146","start_date"=>"2005"
+[[-74.00643599999998, 40.707074199999994], [-74.0068950697608, 40.70677209739108], [-74.00710231597299, 40.70708702505557], [-74.00664324621218, 40.707389127664484]]
+"addr:city"=>"New York","addr:housenumber"=>"211","addr:postcode"=>"10038","addr:street"=>"Pearl Street","building:colour"=>"#B9B4A1","building:part"=>"yes","height"=>"25","nycdoitt:bin"=>"1087832","roof:material"=>"concrete","roof:shape"=>"flat","start_
+[[-74.00843489999998, 40.706966099999995], [-74.00865186472718, 40.70673358447525], [-74.00876429999998, 40.706838499999996], [-74.00854733527277, 40.70707101552474]]
+"addr:city"=>"New York","addr:housenumber"=>"50","addr:postcode"=>"10005","addr:street"=>"Pine Street","building:colour"=>"#B7B29F","building:levels"=>"12","height"=>"46.9","nycdoitt:bin"=>"1001011","roof:material"=>"concrete","roof:shape"=>"flat","start
+[[-74.00836449999997, 40.70692669999999], [-74.00856404486609, 40.7067199105792], [-74.00862507772855, 40.706778805247616], [-74.00842553286243, 40.7069855946684]]
+"addr:housenumber"=>"54","addr:postcode"=>"10005","addr:street"=>"Pine Street","building:colour"=>"#9D9191","building:levels"=>"6","building:material"=>"brick","height"=>"24.4","nycdoitt:bin"=>"1001010","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00708029426308, 40.70755898850578], [-74.0074051051418, 40.707310272433745], [-74.00759739999998, 40.70756139999999], [-74.00727258912126, 40.707810116072025]]
+"addr:city"=>"New York","addr:housenumber"=>"83","addr:street"=>"Maiden Lane","building:colour"=>"#917F7A","building:levels"=>"13","building:material"=>"brick","height"=>"56.9","nycdoitt:bin"=>"1001111","roof:material"=>"concrete","roof:shape"=>"flat","s
+[[-74.00747354132703, 40.70796384199467], [-74.00769997623962, 40.70773707700202], [-74.00793309005935, 40.70796985150031], [-74.00770665514675, 40.70819661649297]]
+"addr:city"=>"New York","addr:housenumber"=>"84","addr:postcode"=>"10038","addr:state"=>"NY","addr:street"=>"William Street","building:colour"=>"#9C817A","building:levels"=>"17","building:material"=>"brick","height"=>"66.5","nycdoitt:bin"=>"1001113","ope
+[[-74.00719159999998, 40.7080146], [-74.00729845873526, 40.707850175674714], [-74.00775579999997, 40.708147399999994], [-74.00764894126469, 40.70831182432528]]
+"addr:city"=>"New York","addr:housenumber"=>"90","addr:postcode"=>"10038","addr:street"=>"William Street","building:colour"=>"#8D8D93","building:levels"=>"15","height"=>"61.0","nycdoitt:bin"=>"1087755","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00811299999998, 40.70694639999999], [-74.00843681150842, 40.70661082997309], [-74.00855722637984, 40.70672702545549], [-74.00823341487141, 40.7070625954824]]
+"addr:city"=>"New York","addr:housenumber"=>"56","addr:state"=>"NY","addr:street"=>"Pine Street","building:colour"=>"#BAADA7","building:material"=>"brick","gnis:feature_id"=>"2058390","height"=>"67.1","nycdoitt:bin"=>"1001009","ref:nrhp"=>"03000848","roo
+[[-74.00754699999999, 40.706061899999995], [-74.00796776732491, 40.7055650116163], [-74.00834487503545, 40.70588434812683], [-74.00792410771052, 40.70638123651052]]
+"height"=>"65.3","nycdoitt:bin"=>"1001003"
+[[-74.00689508220005, 40.707855956392756], [-74.00696438017853, 40.70771983536361], [-74.00730040000002, 40.70789090000001], [-74.00723110202154, 40.70802702102915]]
+"building:colour"=>"#A08B81","building:levels"=>"17","building:material"=>"brick","height"=>"56.3","nycdoitt:bin"=>"1085948","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0070076, 40.70769670000001], [-74.00721207640302, 40.70734031810774], [-74.00783232056132, 40.70769618718312], [-74.00762784415829, 40.708052569075384]]
+"building:colour"=>"#7C7566","building:levels"=>"12","building:material"=>"brick","height"=>"51.4","nycdoitt:bin"=>"1001112","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1921"
+[[-74.00785269999999, 40.707335300000004], [-74.00798602752026, 40.707127575437006], [-74.00841645872575, 40.70740384668989], [-74.00828313120547, 40.70761157125289]]
+"nycdoitt:bin"=>"1086256","start_date"=>"2004"
+[[-74.00791953476468, 40.70681664211746], [-74.00826424796632, 40.70648677809988], [-74.00842154007489, 40.70665115088214], [-74.00807682687325, 40.70698101489971]]
+"building:colour"=>"#D6C9A8","building:levels"=>"4","height"=>"28.6","nycdoitt:bin"=>"1001008","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00727829999998, 40.70699739999999], [-74.00756816351867, 40.706678962536884], [-74.00771089864905, 40.70680888979711], [-74.00742103513036, 40.707127327260224]]
+"building:colour"=>"#D9DDE0","building:levels"=>"4","height"=>"15.2","nycdoitt:bin"=>"1001016","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00744499999999, 40.70710100000001], [-74.00766906853806, 40.70676375667176], [-74.00819139999999, 40.707110799999995], [-74.00796733146191, 40.70744804332824]]
+"addr:city"=>"New York","addr:housenumber"=>"80","addr:postcode"=>"10005","addr:street"=>"Maiden Lane","nycdoitt:bin"=>"1001015","start_date"=>"1912"
+[[-74.0082695, 40.7070252], [-74.0083266608746, 40.70694117705213], [-74.0086736, 40.70717719999999], [-74.00861643912539, 40.70726122294786]]
+"building:colour"=>"#A88F66","building:levels"=>"10","height"=>"38.1","nycdoitt:bin"=>"1001013","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0078785154475, 40.70623122971465], [-74.0081738557736, 40.705725714653944], [-74.0090887, 40.70626020000001], [-74.0087933596739, 40.70676571506072]]
+"addr:city"=>"New York","addr:housenumber"=>"60","addr:street"=>"Wall Street","building:part"=>"yes","height"=>"25","nycdoitt:bin"=>"1001004","start_date"=>"1989","wikidata"=>"Q247887","wikipedia"=>"en:60 Wall Street"
+[[-74.0072237, 40.7063739], [-74.0074407756813, 40.70603675507548], [-74.0082143, 40.70653480000001], [-74.0079972243187, 40.70687194492453]]
+"addr:state"=>"NY","gnis:feature_id"=>"2058389","nycdoitt:bin"=>"1001007","old_name"=>"American International Building","start_date"=>"1932","wikidata"=>"Q262041","wikipedia"=>"en:70 Pine Street"
+[[-74.00709549999998, 40.70557959999999], [-74.00716140090563, 40.70547076159705], [-74.00736509999997, 40.70559409999999], [-74.00729919909432, 40.705702938402936]]
+"addr:city"=>"New York","addr:housenumber"=>"126","addr:postcode"=>"10005","addr:street"=>"Water Street","nycdoitt:bin"=>"1000881","official_name"=>"Holiday Inn Express New York City-Wall Street","start_date"=>"2010"
+[[-74.0058368, 40.706440099999995], [-74.00600279291807, 40.70622992465095], [-74.0066537, 40.70674400000001], [-74.00648770708193, 40.706954175349054]]
+"addr:city"=>"New York","addr:housenumber"=>"125","addr:postcode"=>"10038","addr:street"=>"Maiden Lane","name:he"=>"משרדים של חזון","nycdoitt:bin"=>"1087484","start_date"=>"1960"
+[[-74.00846935199978, 40.704742449959994], [-74.00852393731088, 40.704685636017835], [-74.00871509999999, 40.704869299999984], [-74.00866051468888, 40.704926113942136]]
+"addr:housenumber"=>"126","addr:postcode"=>"10005","addr:street"=>"Pearl Street","height"=>"17.9","nycdoitt:bin"=>"1000860"
+[[-74.0073125648607, 40.705708659243555], [-74.00738884713948, 40.705580050191756], [-74.0076629, 40.7057426], [-74.00758661772122, 40.7058712090518]]
+"addr:city"=>"New York","addr:housenumber"=>"160","addr:postcode"=>"10005","addr:street"=>"Pearl Street","building:colour"=>"#444144","building:levels"=>"6","building:material"=>"brick","height"=>"20.2","nycdoitt:bin"=>"1000879","roof:material"=>"concret
+[[-74.0061290210721, 40.70687363934195], [-74.00618102587225, 40.706811716100525], [-74.00635948357086, 40.70696158966558], [-74.00630747877071, 40.70702351290701]]
+"addr:city"=>"New York","addr:housenumber"=>"212","addr:postcode"=>"10038","addr:state"=>"NY","addr:street"=>"Pearl Street","height"=>"4.6","nycdoitt:bin"=>"1001133"
+[[-74.008374, 40.70465080000001], [-74.00842860026111, 40.70459399426985], [-74.00853920000002, 40.704700300000006], [-74.00848459973892, 40.70475710573017]]
+"addr:housenumber"=>"90","addr:postcode"=>"10005","addr:street"=>"Water Street","height"=>"17.8","nycdoitt:bin"=>"1000862"
+[[-74.0080514, 40.7055203], [-74.00821422199303, 40.70526144944496], [-74.00847280000002, 40.7054241], [-74.00830997800699, 40.705682950555044]]
+"addr:housenumber"=>"67","addr:street"=>"Wall Street","height"=>"98.7","nycdoitt:bin"=>"1000829"
+[[-74.00788169999998, 40.7033416], [-74.00795523749211, 40.703257759349476], [-74.00838099999999, 40.7036312], [-74.00830746250784, 40.70371504065052]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:postcode"=>"10005","addr:state"=>"NY","addr:street"=>"Old Slip","building:colour"=>"#DCD6C9","building:levels"=>"4","height"=>"20.8","name:ru"=>"Музей полиции Нью-Йорка","nycdoit
+[[-74.0057165, 40.7057798], [-74.00629949312892, 40.705376386101136], [-74.0064471, 40.70558969999999], [-74.00586410687109, 40.705993113898856]]
+"addr:city"=>"New York","addr:state"=>"NY","building:colour"=>"white","building:levels"=>"33","building:material"=>"glass","building:part"=>"yes","gnis:feature_id"=>"2057545","height"=>"136","nycdoitt:bin"=>"1000876","roof:material"=>"concrete","roof:sha
+[[-74.00848019999998, 40.7057591], [-74.00873155413754, 40.70524922688913], [-74.00906481650875, 40.70541351654103], [-74.0088134623712, 40.7059233896519]]
+"addr:city"=>"New York","addr:housenumber"=>"63","addr:postcode"=>"10005","addr:street"=>"Wall Street","nycdoitt:bin"=>"1000828","start_date"=>"1928","website"=>"http://www.crestnyc.com/"
+[[-74.0083163, 40.70567290000001], [-74.00854076579515, 40.705316049585775], [-74.0087549070653, 40.70545074857605], [-74.00853044127015, 40.70580759899028]]
+"height"=>"98.7","nycdoitt:bin"=>"1000829"
+[[-74.00692316667765, 40.705701982575754], [-74.00702182959064, 40.705535809489135], [-74.0075537, 40.7058516], [-74.00745503708701, 40.70601777308662]]
+"addr:city"=>"New York","addr:housenumber"=>"130","addr:postcode"=>"10005","addr:street"=>"Water Street","height"=>"41.0","nycdoitt:bin"=>"1000884","start_date"=>"1955"
+[[-74.00553259999997, 40.70484629999999], [-74.00619083794362, 40.70440869535874], [-74.00640343821354, 40.70472848530447], [-74.00574520026987, 40.70516608994573]]
+"addr:city"=>"New York","addr:housenumber"=>"120","addr:postcode"=>"10005","addr:street"=>"Wall Street","nycdoitt:bin"=>"1000871","start_date"=>"1930","wikidata"=>"Q172408","wikipedia"=>"en:120 Wall Street"
+[[-74.00827100275993, 40.70475422521803], [-74.00837220643535, 40.70464895435771], [-74.00862709999997, 40.704893999999996], [-74.00852589632454, 40.70499927086032]]
+"height"=>"14.3","nycdoitt:bin"=>"1000000"
+[[-74.0076312909844, 40.70520267258138], [-74.00814317238564, 40.704828999158444], [-74.00832537046121, 40.70507858556331], [-74.00781348905997, 40.70545225898624]]
+"nycdoitt:bin"=>"1085950","start_date"=>"1987"
+[[-74.00826813771275, 40.705239369761074], [-74.0086553, 40.70506139999999], [-74.00875789999999, 40.705284599999985], [-74.00837073771274, 40.70546256976107]]
+"height"=>"65.2","nycdoitt:bin"=>"1000835"
+[[-74.00873479999998, 40.70503909999999], [-74.00887283862369, 40.70499674119333], [-74.00895349999999, 40.705259599999984], [-74.00881546137629, 40.70530195880664]]
+"height"=>"103.9","nycdoitt:bin"=>"1000833"
+[[-74.00865529999999, 40.70506139999999], [-74.00873199140341, 40.705031818567235], [-74.00882609999998, 40.70527579999998], [-74.00874940859656, 40.70530538143274]]
+"building:colour"=>"#D0C1A4","building:levels"=>"4","height"=>"16.7","nycdoitt:bin"=>"1000834","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00521335098983, 40.70690525989971], [-74.00542828589366, 40.706642568693496], [-74.0059172, 40.707042599999994], [-74.00570226509618, 40.70730529120621]]
+"building:colour"=>"black","building:levels"=>"24","building:material"=>"glass","height"=>"103.7","nycdoitt:bin"=>"1001134","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1970"
+[[-74.00585380979413, 40.70505930591961], [-74.00590604062012, 40.70496415273169], [-74.0062652, 40.70516129999999], [-74.00621296917402, 40.705256453187914]]
+"building:colour"=>"#A59991","building:levels"=>"8","building:material"=>"brick","height"=>"31.5","nycdoitt:bin"=>"1000873","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00710189999998, 40.7047899], [-74.00722641118804, 40.70463543276505], [-74.00746131501901, 40.70482478136758], [-74.00733680383095, 40.70497924860253]]
+"addr:city"=>"New York","addr:housenumber"=>"99","addr:postcode"=>"10005","addr:street"=>"Wall Street","nycdoitt:bin"=>"1000865","start_date"=>"1931"
+[[-74.00550080000001, 40.70670190000001], [-74.00569152653333, 40.706478723303874], [-74.00622520000002, 40.706934800000006], [-74.0060344734667, 40.707157976696145]]
+"building:colour"=>"black","building:levels"=>"24","building:material"=>"glass","height"=>"103.3","nycdoitt:bin"=>"1001135","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1970"
+[[-74.0072961546526, 40.70542924465373], [-74.00738260662001, 40.70529322905836], [-74.0076903, 40.7054888], [-74.00760384803257, 40.705624815595364]]
+"building:colour"=>"#DCD6CA","building:levels"=>"13","height"=>"46.4","nycdoitt:bin"=>"1000877","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00531678116386, 40.706043527518574], [-74.0054621491417, 40.70584860761291], [-74.00580499999998, 40.7061043], [-74.00565963202213, 40.70629921990566]]
+"nycdoitt:bin"=>"1001136"
+[[-74.00597687123475, 40.70499878280426], [-74.00644178719193, 40.704593985289776], [-74.0066842, 40.7048724], [-74.00621928404281, 40.705277197514484]]
+"nycdoitt:bin"=>"1000872"
+[[-74.00748849999997, 40.70565919999999], [-74.0076999540253, 40.70544787514635], [-74.00783469828846, 40.70558270177155], [-74.00762324426316, 40.70579402662519]]
+"building:colour"=>"#DCD6CA","building:levels"=>"13","height"=>"46.4","nycdoitt:bin"=>"1000878","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0084439, 40.704608699999994], [-74.00896123105068, 40.70426585680985], [-74.0091893, 40.70461000000001], [-74.00867196894933, 40.704952843190156]]
+"addr:city"=>"New York","addr:housenumber"=>"10","addr:street"=>"Hanover Square","building:levels"=>"22","building:material"=>"glass","height"=>"85","nycdoitt:bin"=>"1000859","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1971","website"
+[[-74.00648729999999, 40.705241199999996], [-74.00692332668659, 40.70493279381394], [-74.00711189999998, 40.7051994], [-74.00667587331338, 40.705507806186056]]
+"addr:city"=>"New York","building:colour"=>"#48555E","building:levels"=>"29","building:material"=>"glass","height"=>"111","nycdoitt:bin"=>"1000875","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1969"
+[[-74.00650339999999, 40.70427749999999], [-74.00720622609288, 40.70379676407595], [-74.0074962, 40.70422070000001], [-74.00679337390712, 40.70470143592405]]
+"addr:city"=>"New York","addr:housenumber"=>"111","addr:street"=>"Wall Street","building:colour"=>"#526069","building:levels"=>"24","building:material"=>"glass","height"=>"105","nycdoitt:bin"=>"1000868","roof:material"=>"concrete","roof:shape"=>"flat","s
+[[-74.00786677197576, 40.70423985863948], [-74.00841235920907, 40.70387019060121], [-74.00860939999998, 40.704161], [-74.00806381276666, 40.70453066803826]]
+"addr:city"=>"New York","addr:housenumber"=>"77","addr:street"=>"Water Street","building:colour"=>"#6B716F","building:levels"=>"26","building:material"=>"glass","height"=>"97","nycdoitt:bin"=>"1000863","roof:material"=>"concrete","start_date"=>"1970"
+[[-74.00623489999998, 40.7061689], [-74.00686323845841, 40.70554968773561], [-74.00735519999999, 40.7060489], [-74.00672686154155, 40.70666811226439]]
+"addr:housenumber"=>"80","addr:street"=>"Pine Street","building:colour"=>"#424A4D","building:material"=>"glass","height"=>"40","nycdoitt:bin"=>"1000880","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1960"
+[[-74.00714400454251, 40.704759714616785], [-74.00774100621723, 40.704330743214754], [-74.00794769999999, 40.7046184], [-74.00735069832527, 40.70504737140202]]
+"addr:city"=>"New York","addr:housenumber"=>"95","addr:street"=>"Wall Street","building:colour"=>"#313034","building:levels"=>"22","building:material"=>"glass","height"=>"95","nycdoitt:bin"=>"1000864","roof:material"=>"concrete","roof:shape"=>"flat","sta
+[[-74.00668795915857, 40.709596060086255], [-74.00691301565264, 40.709365772839334], [-74.00703, 40.7094801], [-74.00680494350593, 40.70971038724692]]
+"addr:city"=>"New York","addr:housenumber"=>"102","addr:postcode"=>"10038","addr:street"=>"Fulton Street","nycdoitt:bin"=>"1001196"
+[[-74.00683969999999, 40.70967479999999], [-74.0071172753938, 40.709390672397305], [-74.0072906070796, 40.70956000691635], [-74.00701303168579, 40.70984413451903]]
+"addr:city"=>"New York","addr:housenumber"=>"106","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#EEE4D0","building:levels"=>"15","building:part"=>"yes","height"=>"52.7","nycdoitt:bin"=>"1001195","roof:colour"=>"#727A7D","roo
+[[-74.0069809988375, 40.70974809886394], [-74.0071802507265, 40.709544213210016], [-74.0072446046499, 40.709607104544226], [-74.0070453527609, 40.70981099019815]]
+"addr:city"=>"New York","addr:housenumber"=>"110","addr:postcode"=>"10038","addr:street"=>"Fulton Street","height"=>"53.0","nycdoitt:bin"=>"1088478","start_date"=>"1927"
+[[-74.00743729999999, 40.70998359999999], [-74.00763894608582, 40.709780307375624], [-74.0076959, 40.7098368], [-74.00749425391417, 40.71004009262437]]
+"addr:city"=>"New York","addr:housenumber"=>"120","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#CBAB7A","building:levels"=>"4","building:material"=>"brick","height"=>"15.4","nycdoitt:bin"=>"1001207","roof:material"=>"concre
+[[-74.00751249999999, 40.71002159999999], [-74.00771691757409, 40.7098156219864], [-74.00778350763335, 40.709881707575526], [-74.00757909005927, 40.710087685589116]]
+"addr:housenumber"=>"122","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#8C816D","building:levels"=>"6","height"=>"20.8","nycdoitt:bin"=>"1001206","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0063358483151, 40.70923069960917], [-74.00636795328076, 40.70916882562036], [-74.0066011, 40.70928980000001], [-74.00656899503434, 40.70935167398882]]
+"addr:city"=>"New York","addr:housenumber"=>"136","addr:postcode"=>"10038","addr:street"=>"William Street","building:colour"=>"gray","building:levels"=>"6","height"=>"20.9","nycdoitt:bin"=>"1001188","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00731899999998, 40.709639300000006], [-74.00743754952106, 40.70943298297848], [-74.0077853, 40.70963280000001], [-74.00766675047892, 40.70983911702154]]
+"addr:city"=>"New York","addr:housenumber"=>"15","addr:postcode"=>"10038","addr:street"=>"Dutch Street","building:colour"=>"#9A958A","building:levels"=>"6","building:material"=>"brick","height"=>"26.2","nycdoitt:bin"=>"1001197","roof:material"=>"concrete
+[[-74.00581249999999, 40.71028849999999], [-74.00589773827458, 40.71015054747034], [-74.00611, 40.7102817], [-74.00602476172541, 40.71041965252965]]
+"addr:city"=>"New York","addr:housenumber"=>"165","addr:postcode"=>"10038","addr:street"=>"William Street","building:colour"=>"#B9978B","building:levels"=>"10","building:material"=>"brick","height"=>"36.6","nycdoitt:bin"=>"1001268","roof:material"=>"conc
+[[-74.00576839999997, 40.70859369999999], [-74.00581714656401, 40.708534088735654], [-74.00597319999999, 40.70866169999999], [-74.00592445343594, 40.70872131126433]]
+"addr:city"=>"New York","addr:housenumber"=>"38","addr:postcode"=>"10038","addr:street"=>"Gold Street","building:levels"=>"1","height"=>"3","nycdoitt:bin"=>"1085600","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00557720000002, 40.7087533], [-74.0058000238147, 40.70856730271535], [-74.00591680000001, 40.70870720000001], [-74.00569397618534, 40.70889319728465]]
+"addr:city"=>"New York","addr:housenumber"=>"40","addr:postcode"=>"10038","addr:street"=>"Gold Street","building:levels"=>"14","height"=>"49.4","nycdoitt:bin"=>"1088484","start_date"=>"2010"
+[[-74.00780605813728, 40.709600899211516], [-74.00806531732586, 40.70933970414157], [-74.00813100000002, 40.70940490000001], [-74.00787174081145, 40.70966609506996]]
+"addr:city"=>"New York","addr:housenumber"=>"41","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#6F554C","building:levels"=>"4","building:material"=>"brick","height"=>"17.0","nycdoitt:bin"=>"1075701","roof:material"=>"concrete"
+[[-74.00776596600087, 40.70953906624092], [-74.00800374043743, 40.70929960096392], [-74.0080603557272, 40.70935581649876], [-74.00782258129063, 40.70959528177576]]
+"addr:city"=>"New York","addr:housenumber"=>"43","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#655C5F","building:levels"=>"4","building:material"=>"brick","height"=>"15.2","nycdoitt:bin"=>"1084390","roof:material"=>"concrete"
+[[-74.00650993784785, 40.71064530321341], [-74.00687622015323, 40.71034348659373], [-74.00693490000002, 40.7104147], [-74.00656861769465, 40.71071651661969]]
+"addr:city"=>"New York","addr:housenumber"=>"47","addr:postcode"=>"10038","addr:street"=>"Ann Street","nycdoitt:bin"=>"1001272"
+[[-74.006447, 40.71039739999999], [-74.00664258311815, 40.71023901748763], [-74.00667820115112, 40.7102830014215], [-74.00648261803296, 40.71044138393387]]
+"addr:city"=>"New York","addr:housenumber"=>"55","addr:postcode"=>"10038","addr:street"=>"Ann Street","building:colour"=>"#614E4A","building:levels"=>"4","building:material"=>"brick","height"=>"14.9","nycdoitt:bin"=>"1001271","roof:material"=>"concrete",
+[[-74.0074924, 40.7094645], [-74.00752809727783, 40.709402374434475], [-74.00783751862701, 40.709580167582544], [-74.00780182134919, 40.70964229314807]]
+"addr:city"=>"New York","addr:housenumber"=>"7","addr:postcode"=>"10038","addr:street"=>"Dutch Street","building:colour"=>"#483636","building:levels"=>"5","building:material"=>"brick","height"=>"17.5","nycdoitt:bin"=>"1001198","roof:material"=>"concrete"
+[[-74.00762100000001, 40.709798400000004], [-74.00774171191041, 40.7095695379482], [-74.0081195, 40.7097688], [-74.00799878808961, 40.709997662051805]]
+"addr:city"=>"New York","addr:housenumber"=>"80","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#BCAF97","building:levels"=>"4","building:material"=>"brick","height"=>"16.7","nycdoitt:bin"=>"1001201","roof:material"=>"concret
+[[-74.00774254204809, 40.70992644744548], [-74.0077691909678, 40.70987437685894], [-74.00793199999998, 40.70995769999999], [-74.00790535108027, 40.71000977058653]]
+"addr:city"=>"New York","addr:housenumber"=>"86","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#A6A5A2","building:levels"=>"5","height"=>"18.5","nycdoitt:bin"=>"1001202","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0077098, 40.709943900000006], [-74.00772944791706, 40.70990968120588], [-74.00788885234694, 40.710001208832615], [-74.00786920442988, 40.71003542762674]]
+"addr:housenumber"=>"86A","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#89897D","building:levels"=>"2","height"=>"7.2","nycdoitt:bin"=>"1001203","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00766825681808, 40.709985675205594], [-74.00769659654016, 40.709936318771895], [-74.00786009999999, 40.7100302], [-74.00783176027791, 40.7100795564337]]
+"addr:city"=>"New York","addr:housenumber"=>"88","addr:postcode"=>"10038","addr:street"=>"Nassau Street","building:colour"=>"#696B67","building:levels"=>"6","height"=>"15.3","nycdoitt:bin"=>"1001204","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00593499999998, 40.7092116], [-74.00608439746605, 40.709075216619155], [-74.00611743917614, 40.709111411262], [-74.00596804171006, 40.70924779464285]]
+"addr:city"=>"New York","addr:housenumber"=>"90","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#A94828","building:levels"=>"5","building:material"=>"brick","height"=>"17.5","nycdoitt:bin"=>"1001191","roof:material"=>"concret
+[[-74.00607250000002, 40.709282400000006], [-74.00624287610114, 40.70909199624459], [-74.00630119568781, 40.70914418147473], [-74.00613081958667, 40.70933458523014]]
+"addr:city"=>"New York","addr:housenumber"=>"94","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#A84327","building:levels"=>"7","building:material"=>"brick","height"=>"23.8","nycdoitt:bin"=>"1079210","roof:material"=>"concret
+[[-74.00629529999999, 40.70887849999999], [-74.00669826127518, 40.70834825158325], [-74.00718019999998, 40.708714499999985], [-74.0067772387248, 40.70924474841672]]
+"addr:city"=>"New York","addr:housenumber"=>"110","addr:postcode"=>"10038","addr:street"=>"William Street","nycdoitt:bin"=>"1001186","start_date"=>"1958"
+[[-74.00619099999999, 40.7104027], [-74.00651831226673, 40.71012925151824], [-74.00676959677577, 40.71043003396076], [-74.00644228450902, 40.710703482442526]]
+"height"=>"22.6","nycdoitt:bin"=>"1001270","parking"=>"multi-storey"
+[[-74.0061827102039, 40.709912095961954], [-74.00633868484812, 40.70960356054266], [-74.0070042, 40.70994000000001], [-74.00684822535578, 40.7102485354193]]
+"height"=>"39.3","nycdoitt:bin"=>"1001263"
+[[-74.0067379, 40.709344599999994], [-74.00694964994298, 40.708970348017445], [-74.00754025213652, 40.70930450785264], [-74.00732850219354, 40.70967875983519]]
+"addr:city"=>"New York","addr:housenumber"=>"123","addr:postcode"=>"10038","addr:street"=>"William Street","nycdoitt:bin"=>"1079063","start_date"=>"1957"
+[[-74.0056242, 40.70905079999999], [-74.00631969024232, 40.70844863841151], [-74.0065324246859, 40.70869434443554], [-74.00583693444358, 40.70929650602402]]
+"building:colour"=>"#A0947E","building:levels"=>"7","building:material"=>"brick","building:part"=>"yes","height"=>"33.5","nycdoitt:bin"=>"1077403","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00676959999998, 40.710208699999995], [-74.00702143829045, 40.7099202560586], [-74.00709879999998, 40.7099878], [-74.0068469617095, 40.710276243941394]]
+"height"=>"53.6","nycdoitt:bin"=>"1001264"
+[[-74.00692539999999, 40.71028749999999], [-74.00719534975943, 40.71000952557469], [-74.0072550305132, 40.71006748344298], [-74.00698508075378, 40.71034545786827]]
+"building:colour"=>"#CBC1B3","building:levels"=>"4","building:material"=>"brick","height"=>"14.0","nycdoitt:bin"=>"1001265","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00788869999998, 40.70964709999999], [-74.00816019221469, 40.70937571983327], [-74.00833639457277, 40.709551994942125], [-74.00806490235806, 40.70982337510885]]
+"building:colour"=>"#ADA28E","building:levels"=>"3","building:material"=>"brick","height"=>"12.6","nycdoitt:bin"=>"1001200","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0075924, 40.7100621], [-74.00764430519877, 40.70997180658132], [-74.0078186, 40.710072], [-74.00776669480122, 40.710162293418676]]
+"building:colour"=>"#C0B189","building:levels"=>"8","building:material"=>"brick","height"=>"29.8","nycdoitt:bin"=>"1001205","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0070686, 40.7103599], [-74.00733882325318, 40.71007978003532], [-74.0074027, 40.7101414], [-74.00713247674682, 40.710421519964676]]
+"height"=>"33.5","nycdoitt:bin"=>"1001266"
+[[-74.00714940000003, 40.710400700000015], [-74.00745531300485, 40.710087432118534], [-74.00762650000003, 40.710254600000006], [-74.00732058699519, 40.71056786788149]]
+"building:colour"=>"#B3A484","building:levels"=>"4","building:part"=>"yes","height"=>"16","nycdoitt:bin"=>"1001267","roof:colour"=>"#8A8D84","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0070032, 40.71032679999999], [-74.0072684252291, 40.710050232205134], [-74.0073198, 40.7100995], [-74.0070545747709, 40.710376067794854]]
+"building:colour"=>"#BA9E88","building:levels"=>"2","height"=>"8.2","nycdoitt:bin"=>"1079214","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00655809999999, 40.7095286], [-74.00676390274155, 40.709317989852906], [-74.00686409999999, 40.709415899999996], [-74.00665829725843, 40.709626510147096]]
+"building:colour"=>"#E2CAA5","building:levels"=>"16","building:part"=>"yes","height"=>"61.3","nycdoitt:bin"=>"1001192","roof:colour"=>"#DBE0DA","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1904"
+[[-74.00684470000002, 40.710246700000006], [-74.00711756531189, 40.70996868020761], [-74.00717906676185, 40.71002904142211], [-74.00690620144998, 40.71030706121451]]
+"building:colour"=>"#8C755D","building:material"=>"brick","height"=>"19.3","nycdoitt:bin"=>"1079088","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0071329, 40.7098294], [-74.00725172128219, 40.709603856145684], [-74.00762100000001, 40.709798400000004], [-74.00750217871783, 40.71002394385432]]
+"addr:city"=>"New York","addr:housenumber"=>"19","addr:postcode"=>"10038","addr:street"=>"Dutch Street","building:levels"=>"63","height"=>"231","nycdoitt:bin"=>"1001210","start_date"=>"2018","website"=>"https://www.19dutch.com/","wikipedia"=>"en:19 Dutch
+[[-74.0053629, 40.7088863], [-74.00558144658737, 40.708702416756964], [-74.005719, 40.7088659], [-74.00550045341262, 40.70904978324304]]
+"building:colour"=>"#917E5D","building:levels"=>"3","building:material"=>"brick","height"=>"11.0","nycdoitt:bin"=>"1001184","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0061441, 40.70931959999999], [-74.00622119679248, 40.7091710639515], [-74.00655173689613, 40.70934262891527], [-74.00647464010365, 40.709491164963765]]
+"building:colour"=>"#8C5C3C","building:levels"=>"7","building:material"=>"brick","building:part"=>"yes","height"=>"29","nycdoitt:bin"=>"1001189","roof:colour"=>"#CBD2C2"
+[[-74.0061482, 40.70860540000001], [-74.00656362428148, 40.70824605227443], [-74.00674009333103, 40.708450059487774], [-74.00632466904955, 40.70880940721334]]
+"nycdoitt:bin"=>"1001185","start_date"=>"1926"
+[[-74.00732589400072, 40.70915345062026], [-74.00753891629599, 40.708935447379545], [-74.0077241, 40.709116400000006], [-74.00751107770473, 40.70933440324072]]
+"height"=>"68.7","nycdoitt:bin"=>"1079064"
+[[-74.0070146, 40.7090616], [-74.00730833161984, 40.708761011693255], [-74.00751353289786, 40.70896153214743], [-74.00721980127804, 40.70926212045417]]
+"addr:city"=>"New York","addr:housenumber"=>"59","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#AE9C84","building:levels"=>"9","building:part"=>"yes","height"=>"42.2","nycdoitt:bin"=>"1001193","roof:material"=>"concrete","roof
+[[-74.00754460000002, 40.709411900000006], [-74.00782041561905, 40.709134079259336], [-74.00799550593686, 40.709307905894], [-74.00771969031781, 40.70958572663467]]
+"building:colour"=>"#B4ACA9","building:levels"=>"12","building:material"=>"brick","building:part"=>"yes","height"=>"52.5","nycdoitt:bin"=>"1001199","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1908"
+[[-74.0059277, 40.71016910000001], [-74.00617084408597, 40.709903875112516], [-74.00646549999999, 40.710174], [-74.00622235591402, 40.710439224887494]]
+"addr:city"=>"New York","addr:housenumber"=>"161","addr:postcode"=>"10038","addr:street"=>"William Street","nycdoitt:bin"=>"1001269","start_date"=>"1952"
+[[-74.00612599999998, 40.70788879999999], [-74.00626699161397, 40.70778207950676], [-74.00630721866959, 40.70783522466496], [-74.0061662270556, 40.707941945158204]]
+"addr:city"=>"New York","addr:housenumber"=>"102","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#687066","building:material"=>"glass","height"=>"16.3","nycdoitt:bin"=>"1001128","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00587394367433, 40.70768403031077], [-74.00600706668071, 40.70757643485396], [-74.00605230000002, 40.70763240000001], [-74.00591917699363, 40.70773999545682]]
+"addr:city"=>"New York","addr:housenumber"=>"112","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#63513D","height"=>"14.9","nycdoitt:bin"=>"1001131","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00547421357916, 40.708415508199565], [-74.00569030911062, 40.7082603626898], [-74.00583790616052, 40.708465944295014], [-74.00562181062907, 40.70862108980478]]
+"addr:city"=>"New York","addr:housenumber"=>"15","addr:postcode"=>"10038","addr:street"=>"Cliff Street","building:colour"=>"#A18172","building:material"=>"brick","building:part"=>"yes","height"=>"97.3","nycdoitt:bin"=>"1085931","roof:material"=>"concrete
+[[-74.0052331, 40.708309400000005], [-74.00534352717428, 40.70819664730132], [-74.0056777900946, 40.708524016048905], [-74.00556736292032, 40.70863676874759]]
+"addr:city"=>"New York","addr:housenumber"=>"25","addr:postcode"=>"10038","addr:street"=>"Cliff Street","building:colour"=>"#DFD8D2","building:levels"=>"4","height"=>"17.6","nycdoitt:bin"=>"1001179","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00514937125467, 40.708347309267964], [-74.00520987571824, 40.70828570472325], [-74.00558109999999, 40.70865029999999], [-74.00552059553642, 40.70871190454471]]
+"addr:city"=>"New York","addr:housenumber"=>"27","addr:postcode"=>"10038","addr:street"=>"Cliff Street","building:colour"=>"#DED5C6","building:levels"=>"5","height"=>"25.0","nycdoitt:bin"=>"1001178","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00519929999999, 40.70871569999999], [-74.0054108606786, 40.70856362260939], [-74.00550989999999, 40.708701399999995], [-74.0052983393214, 40.70885347739059]]
+"addr:city"=>"New York","addr:housenumber"=>"64","addr:postcode"=>"10038","addr:street"=>"Fulton Street","building:colour"=>"#C5966E","building:levels"=>"11","building:part"=>"yes","height"=>"40","nycdoitt:bin"=>"1001176","roof:colour"=>"#5E6867","roof:m
+[[-74.00555608606761, 40.708185195470186], [-74.00602490609525, 40.7077838935884], [-74.00643204830176, 40.70825953656235], [-74.00596322827413, 40.70866083844414]]
+"addr:city"=>"New York","addr:housenumber"=>"99","addr:postcode"=>"10038","addr:street"=>"John Street","nycdoitt:bin"=>"1087867","start_date"=>"1933"
+[[-74.0056079, 40.7074202], [-74.00586834594766, 40.707157582847], [-74.0061631, 40.7074499], [-74.00590265405233, 40.707712517152984]]
+"addr:city"=>"New York","addr:housenumber"=>"116","addr:postcode"=>"10038","addr:street"=>"John Street","nycdoitt:bin"=>"1001126","start_date"=>"1931","wikidata"=>"Q22329563"
+[[-74.00587857560976, 40.707677519512195], [-74.00619536829268, 40.707424085365844], [-74.0062813, 40.7075315], [-74.00596450731707, 40.70778493414635]]
+"building:colour"=>"#8F886C","building:levels"=>"4","height"=>"18.9","nycdoitt:bin"=>"1001130","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00618649999998, 40.7079266], [-74.00640657630558, 40.70762207917241], [-74.00676539999999, 40.70788139999999], [-74.0065453236944, 40.708185920827574]]
+"height"=>"108.2","nycdoitt:bin"=>"1001127"
+[[-74.00596300000001, 40.70777230000001], [-74.00632976802169, 40.70749483302036], [-74.00648536815012, 40.707700512093794], [-74.00611860012845, 40.70797797907344]]
+"building:colour"=>"#A99A7E","building:levels"=>"5","height"=>"21.0","nycdoitt:bin"=>"1001129","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00558567912225, 40.7100913311027], [-74.00562414591371, 40.71003402504248], [-74.00578529999999, 40.7101422], [-74.00574683320853, 40.71019950606022]]
+"addr:housenumber"=>"164","addr:postcode"=>"10038","addr:street"=>"William Street","height"=>"18.0","nycdoitt:bin"=>"1001282"
+[[-74.00539551380702, 40.710098703675726], [-74.0056311444296, 40.70990615233592], [-74.00567670000001, 40.70996190000001], [-74.00544106937741, 40.71015445133982]]
+"addr:city"=>"New York","addr:housenumber"=>"45","addr:postcode"=>"10038","addr:street"=>"Beekman Street","building:colour"=>"#C3BBB7","building:levels"=>"5","height"=>"19.5","nycdoitt:bin"=>"1001285","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00534608156744, 40.71004477779648], [-74.00557892004262, 40.70985148375938], [-74.005627, 40.7099094], [-74.00539416152483, 40.710102694037104]]
+"addr:city"=>"New York","addr:housenumber"=>"47","addr:postcode"=>"10038","addr:street"=>"Beekman Street","building:colour"=>"#ACAAA0","building:levels"=>"4","height"=>"13.6","nycdoitt:bin"=>"1001286","religion"=>"jewish","roof:material"=>"concrete","roo
+[[-74.00529159999999, 40.7099929], [-74.00547045119785, 40.70984439426977], [-74.0055182, 40.709901900000006], [-74.00533934880215, 40.710050405730236]]
+"addr:city"=>"New York","addr:housenumber"=>"49","addr:postcode"=>"10038","addr:street"=>"Beekman Street","building:colour"=>"#7F5352","building:levels"=>"3","building:material"=>"brick","height"=>"17.8","nycdoitt:bin"=>"1001287","operator"=>"New York Ci
+[[-74.00510510404119, 40.709900016085015], [-74.00528340524374, 40.709542015954035], [-74.00600739999999, 40.70990260000001], [-74.00582909879743, 40.71026060013099]]
+"height"=>"54.2","nycdoitt:bin"=>"1001281"
+[[-74.00552429999999, 40.71022409999999], [-74.00558853071638, 40.71015935295951], [-74.00567909999998, 40.7102492], [-74.00561486928359, 40.71031394704049]]
+"building:colour"=>"#B9B8B1","building:levels"=>"5","building:material"=>"brick","height"=>"17.2","nycdoitt:bin"=>"1001284","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00527356957862, 40.70944475589195], [-74.00542419560108, 40.70914674018146], [-74.0063004, 40.7095896], [-74.00614977397754, 40.70988761571049]]
+"building:colour"=>"#D2CBB8","building:part"=>"yes","height"=>"45","nycdoitt:bin"=>"1001280","roof:colour"=>"#7F8277","roof:shape"=>"flat","start_date"=>"1927"
+[[-74.00543611008298, 40.71016487585853], [-74.00551665720945, 40.71004493415533], [-74.00573579999997, 40.71019209999999], [-74.0056552528735, 40.7103120417032]]
+"building:colour"=>"#894D4F","building:levels"=>"5","building:material"=>"brick","height"=>"18.6","nycdoitt:bin"=>"1001283","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0081199462993, 40.70320063162316], [-74.00949000710415, 40.702381665853544], [-74.01001685343215, 40.703263035418594], [-74.0086467926273, 40.70408200118821]]
+"addr:housenumber"=>"55","addr:street"=>"Water Street","nycdoitt:bin"=>"1083346","start_date"=>"1972","wikidata"=>"Q244114","wikipedia"=>"en:55 Water Street"
+[[-74.00846375084055, 40.707719320098136], [-74.00865164845919, 40.707429559667105], [-74.00949996396052, 40.70797965707683], [-74.00931206634188, 40.70826941750786]]
+"nycdoitt:bin"=>"1001021","start_date"=>"1961","wikidata"=>"Q1050074","wikipedia"=>"en:One Chase Manhattan Plaza"
+[[-74.00739229999999, 40.708694], [-74.0076202346895, 40.70845056726362], [-74.00812999513609, 40.70892787401718], [-74.00790206044658, 40.70917130675356]]
+"addr:city"=>"New York","addr:housenumber"=>"66","addr:postcode"=>"10038","addr:street"=>"John Street","building:colour"=>"#B5B9B8","building:levels"=>"16","height"=>"70","roof:material"=>"concrete","roof:shape"=>"flat","start_date"=>"1929"
+[[-74.00625918541334, 40.70736967869904], [-74.00660759137985, 40.70718927877172], [-74.00675006586303, 40.70746443941481], [-74.00640165989651, 40.70764483934212]]
+"addr:city"=>"New York","addr:housenumber"=>"6","addr:postcode"=>"10038","addr:state"=>"NY","addr:street"=>"Platt Street","alt_name"=>"Four Points by Sheraton New York Downtown","brand:wikidata"=>"Q1439966","official_name"=>"Four Points by Sheraton Finan
+[[-74.00661800000002, 40.708198200000005], [-74.0068329229522, 40.70789463710228], [-74.007084, 40.7080724], [-74.00686907704782, 40.708375962897726]]
+"nycdoitt:bin"=>"1001115","start_date"=>"1926"
+[[-74.0064947, 40.7104316], [-74.00673431067746, 40.71023398294642], [-74.00684549999998, 40.7103688], [-74.00660588932253, 40.71056641705357]]
+"addr:city"=>"New York","addr:housenumber"=>"49","addr:street"=>"Ann Street","bin"=>"1089326","nycdoitt:bin"=>"1089326","start_date"=>"2014","website"=>"http://www.aloftmanhattandowntown.com/"
+[[-74.00527770486212, 40.707544775085765], [-74.00563109056448, 40.707379242571534], [-74.0058724, 40.707894399999994], [-74.00551901429765, 40.70805993251422]]
+"addr:housenumber"=>"111","addr:postcode"=>"10038","addr:street"=>"John Street"
+[[-74.00993839999998, 40.708116000000004], [-74.01020584851341, 40.70770973860771], [-74.0110888, 40.708291], [-74.01082135148657, 40.708697261392295]]
+"addr:city"=>"New York","addr:housenumber"=>"120","addr:state"=>"NY","addr:street"=>"Broadway","nycdoitt:bin"=>"1001026","start_date"=>"1915","wikidata"=>"Q1347892","wikipedia"=>"en:Equitable Building (Manhattan)"
+[[-74.0131576146968, 40.7021431978374], [-74.01319482223496, 40.70202999192338], [-74.0133467412746, 40.70207992335598], [-74.01330953373643, 40.702193129270015]]
+"artist_name"=>"Ben van Berkel","building:colour"=>"white","height"=>"5","roof:colour"=>"white","start_date"=>"2011"
+[[-74.00984359999998, 40.704370999999995], [-74.0099569222236, 40.7042230793984], [-74.01017349999998, 40.704389], [-74.01006017777637, 40.70453692060159]]
+"addr:city"=>"New York","addr:housenumber"=>"95","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Pearl Street","height"=>"19.1","nycdoitt:bin"=>"1000840","website"=>"http://www.ulyssesnyc.com/home"
+[[-74.0097819167421, 40.70441881240123], [-74.00982663853904, 40.7043584363029], [-74.01002409999997, 40.7045047], [-74.00997937820304, 40.70456507609832]]
+"addr:city"=>"New York","addr:housenumber"=>"62","addr:postcode"=>"10004","addr:state"=>"NY","addr:street"=>"Stone Street"
+[[-74.00961559999999, 40.70454769999999], [-74.00982981185625, 40.70438155412378], [-74.00996239999998, 40.704552499999984], [-74.00974818814372, 40.7047186458762]]
+"addr:state"=>"NY","gnis:county_name"=>"New York","gnis:feature_id"=>"2057422","gnis:import_uuid"=>"57871b70-0100-4405-bb30-88b2e001a944","gnis:reviewed"=>"yes","height"=>"15.3","nycdoitt:bin"=>"1000841","wikidata"=>"Q1859121"
+[[-74.00582491715303, 40.71049862553592], [-74.00604416835748, 40.71029232687309], [-74.00622639999999, 40.710486], [-74.00600714879553, 40.710692298662835]]
+"addr:city"=>"New York","addr:housenumber"=>"33","addr:postcode"=>"10038","addr:street"=>"Beekman Street","start_date"=>"2015"
+[[-74.01242945199746, 40.70932650632919], [-74.01249625199746, 40.7091727063292], [-74.0128736, 40.70933660000001], [-74.0128068, 40.7094904]]
+"addr:city"=>"New York","addr:housenumber"=>"133","addr:street"=>"Greenwich Street","building:levels"=>"30","height"=>"109","smoking"=>"no","website"=>"http://www.marriott.com/hotels/travel/nycxm-courtyard-new-york-downtown-manhattan-world-trade-center-a
+[[-74.01389719999999, 40.7083672], [-74.01391261492284, 40.708306361916144], [-74.01423599999998, 40.7083883], [-74.01422058507713, 40.70844913808386]]
+"addr:city"=>"New York","addr:housenumber"=>"103","addr:postcode"=>"10006","addr:street"=>"Washington Street","building:colour"=>"#ABAAA2","building:levels"=>"5","cuisine"=>"asian","height"=>"20","roof:material"=>"concrete","roof:shape"=>"flat","wikidata
+[[-74.00970829409079, 40.702616606858115], [-74.00971777990237, 40.70260559777752], [-74.00986760590918, 40.70273469314188], [-74.0098581200976, 40.70274570222247]]
+
+[[-74.00973905007672, 40.70252508354068], [-74.00984868186114, 40.70240070508959], [-74.01009324017762, 40.70261626786913], [-74.0099836083932, 40.70274064632022]]
+"building:colour"=>"#9B9582","height"=>"1.5","roof:colour"=>"#9B9582"
+[[-74.0117022, 40.7041479], [-74.01170325064348, 40.70409185221106], [-74.01204824751042, 40.7040983193477], [-74.01204719686694, 40.704154367136645]]
+"building:colour"=>"#A58E72","building:levels"=>"3","height"=>"11","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.0068939, 40.70671540000001], [-74.00719149751204, 40.7064081332547], [-74.0074119207475, 40.70662162009462], [-74.00711432323546, 40.70692888683993]]
+"addr:city"=>"New York","addr:housenumber"=>"100","addr:street"=>"Maiden Lane","nycdoitt:bin"=>"1001014","start_date"=>"1929"
+[[-74.00711010945241, 40.706870258524546], [-74.00744811678433, 40.70657598289788], [-74.0075836, 40.7067316], [-74.00724559266808, 40.70702587562666]]
+"building:colour"=>"#9BA09B","building:levels"=>"9","height"=>"35","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.00965061677837, 40.71041526552102], [-74.00970457014321, 40.71029629641079], [-74.01003819999998, 40.7104476], [-74.00998424663514, 40.710566569110235]]
+
+[[-74.01329570000001, 40.701996300000005], [-74.01332047413261, 40.70195937251934], [-74.01344140000002, 40.70204050000001], [-74.01341662586742, 40.702077427480674]]
+"building:material"=>"glass","height"=>"5","roof:direction"=>"311","roof:height"=>"3.5","roof:material"=>"glass","roof:shape"=>"skillion"
+[[-74.01271169999998, 40.701588499999986], [-74.01278390206393, 40.70157499698649], [-74.01279459999999, 40.70163219999999], [-74.01272239793605, 40.7016457030135]]
+"building:colour"=>"#8C7C6C","height"=>"5","roof:material"=>"concrete","roof:shape"=>"flat"
+[[-74.01286409999999, 40.701828400000004], [-74.01287278498974, 40.70167674671748], [-74.01301619614105, 40.701684959690894], [-74.0130075111513, 40.70183661297342]]
+
+[[-74.00806662263864, 40.70799510202552], [-74.00843772263863, 40.70767360202552], [-74.00926169999998, 40.708624699999994], [-74.00889059999999, 40.70894619999999]]
+"wikidata"=>"Q4635209"
+[[-74.00841554485619, 40.707332122306475], [-74.00846524153667, 40.70732613475458], [-74.00846981672628, 40.70736410882813], [-74.0084201200458, 40.707370096380025]]
+"phone"=>"7183436400","shelter_type"=>"gazebo"
+[[-74.0085623, 40.71054530000001], [-74.00879337593757, 40.71008921842091], [-74.00939699088748, 40.71039504285426], [-74.0091659149499, 40.710851124433354]]
+"height"=>"17","operator"=>"New York City Transit Authority","public_transport"=>"station"
+[[-74.00968259999999, 40.7103917], [-74.00972930984577, 40.71029747496629], [-74.00988609999999, 40.7103752], [-74.00983939015421, 40.710469425033715]]
+"operator"=>"New York City Transit Authority","public_transport"=>"station"
+[[-74.00656589999998, 40.70952789999999], [-74.00661511278953, 40.7094436275881], [-74.00676609999998, 40.70953179999999], [-74.00671688721043, 40.70961607241188]]
+"operator"=>"New York City Transit Authority","public_transport"=>"station"
+[[-74.00737003680179, 40.71015805168578], [-74.00757640691141, 40.709951107262285], [-74.00776533577368, 40.71013951180762], [-74.00755896566406, 40.71034645623112]]
+"level"=>"-1","operator"=>"New York City Transit Authority","public_transport"=>"station"
+[[-74.01005697011308, 40.709826181130715], [-74.01024854699949, 40.70962707329083], [-74.01033790922037, 40.709713055520595], [-74.01014633233396, 40.70991216336048]]
+"level"=>"-1","operator"=>"New York City Transit Authority","public_transport"=>"station"
+[[-74.01388240000001, 40.70759850000001], [-74.01444896300197, 40.706198728546845], [-74.0157272, 40.70671610000001], [-74.01516063699805, 40.708115871453174]]
+"addr:city"=>"New York","addr:housenumber"=>"25","addr:postcode"=>"10006","addr:street"=>"West Street","fee"=>"yes","layer"=>"1","nycdoitt:bin"=>"1078977; 1088913; 1088913; 1078977","parking"=>"multi-storey"
+[[-74.01347110000002, 40.704665500000004], [-74.01347218212405, 40.7046111856975], [-74.01360340000001, 40.704613800000004], [-74.01360231787598, 40.70466811430251]]
+
+[[-74.00959132768091, 40.7063815892687], [-74.01001050040847, 40.70565645910893], [-74.0110262, 40.7062436], [-74.01060702727244, 40.70696873015977]]
