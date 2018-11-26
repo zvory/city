@@ -18,21 +18,6 @@ body {
   -o-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
   -ms-transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
   transform: rotateX(50deg) rotateY(0deg) rotateZ(-30deg);
-  background-color: darkslategray;
-}
-
-.cube {
-  top: 5em;
-  left: 5em;
-  transform-style: preserve-3d;
-  transform: translateZ(2em);
-}
-
-.cube__face {
-  margin: -1em;
-  background-color: black;
-  width: 2em;
-  height: 2em;
 }
 
 .wireframe {
@@ -61,28 +46,48 @@ body {
   border: 5px solid #00ff00;
 }
 
+.cube {
+  top: 20em;
+  left: 40em;
+  transform-style: preserve-3d;
+  transform: translateZ(2em);
+}
+
 .cube__face:nth-child(1) {
-  transform: rotateY(0deg) translateZ(1em);
+  transform: rotateY(0deg) translateZ(10em);
+  width: 10em;
+  height: 5em;
 }
 
 .cube__face:nth-child(2) {
-  transform: rotateY(90deg) translateZ(1em);
+  transform: rotateY(90deg);
+  /*translateZ($cube-edge-width/2);*/
+  width: 20em;
+  height: 5em;
 }
 
 .cube__face:nth-child(3) {
-  transform: rotateY(180deg) translateZ(1em);
+  transform: rotateY(180deg) translateZ(10em);
+  width: 10em;
+  height: 5em;
 }
 
 .cube__face:nth-child(4) {
-  transform: rotateY(270deg) translateZ(1em);
+  transform: rotateY(270deg) translateZ(10em);
+  width: 20em;
+  height: 5em;
 }
 
 .cube__face:nth-child(5) {
-  transform: rotateX(90deg) translateZ(1em);
+  transform: rotateX(90deg) translateZ(5em);
+  height: 20em;
+  width: 10em;
 }
 
 .cube__face:nth-child(6) {
-  transform: rotateX(-90deg) translateZ(1em);
+  transform: rotateX(-90deg) translateZ(-10em);
+  height: 20em;
+  width: 10em;
 }
 
 /*# sourceMappingURL=style.css.map */
